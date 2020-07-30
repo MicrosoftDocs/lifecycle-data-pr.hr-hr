@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Mekegrid Aplikacija Virtualizacija
+  description: SoftGrid Aplikacija Virtualizacija slijedi Fiksni životnog ciklusa politike.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808054"
+name: Mekegrid Aplikacija Virtualizacija
+summary: >
+  SoftGrid Aplikacija Virtualizacija slijedi [Fiksni](/lifecycle/policies/fixed) životnog ciklusa politike.
+
+
+  To se odnosi na sljedeća izdanja: 4.1 za stolna računala, 4.2 za stolna računala, za Terminal Services 4.1
+
+
+  > [!IMPORTANT]
+
+  > Podrška je završena. Pogledajte smjernice za migraciju u nastavku.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Izdanja \n* 4.1 za stolna računala\n* 4.2 za stolna računala\n* za Terminal Services 4.1"

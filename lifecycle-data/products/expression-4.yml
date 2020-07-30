@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Izraz 4
+  description: Izraz 4 slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808119"
+name: Izraz 4
+summary: >+
+  Izraz 4 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+  To se odnosi na sljedeća izdanja: Dizajn, Koder, Studio Ultimate, Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 08/26/2010
+  end: 09/08/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Original Release
+  startDate: 08/26/2010
+  endDate: 07/14/2020
+content: "\n\n> [!NOTE]\n> Kraj osnovne podrške za Expression Studio Ultimate 4 je listopad 13, 2015.\n\n## <a name=\"editions\"></a>Izdanja \n* Dizajn\n* Koder\n* Studio Ultimate\n* Web"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Izraz 3
+  description: Izraz 3 slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808118"
+name: Izraz 3
+summary: >+
+  Izraz 3 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+  To se odnosi na sljedeća izdanja: Dizajn, Koder, Studio, Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 10/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2009
+  endDate: 01/14/2020
+content: "\n\n> [!NOTE]\n> Datum početka izraza dizajn 3 je studeni 19, 2009. \n\n## <a name=\"editions\"></a>Izdanja \n* Dizajn\n* Koder\n* Studio\n* Web"
