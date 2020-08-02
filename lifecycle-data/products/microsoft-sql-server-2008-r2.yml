@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2008 R2
+  description: Microsoft SQL Server 2008 R2 slijedi pravilnik fiksnog životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808223"
+name: Microsoft SQL Server 2008 R2
+summary: >+
+  Microsoft SQL Server 2008 R2 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+
+
+  To se odnosi na sljedeća izdanja: Datacenter, Developer, Enterprise, Express, Express s naprednim servisima, za ugrađene sustave, standardno, standardno izdanje za male tvrtke, web, radnu grupu
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/20/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Mogućnosti završetka podrške za SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Mogućnosti završetka podrške za SQL Server 2008 i Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Prošireni program sigurnosnog ažuriranja (ESU)](/lifecycle/faq/extended-security-updates)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Proširena sigurnosna ažuriranja (ESU) dostupna su za datacenter, standard, enterprise i ugrađena izdanja ovog proizvoda, do dodatne tri godine nakon završetka podrške.\n> [!NOTE]\n> Samo za IA64 SP2 bit će podržan do 7.9.2019. Dodatne informacije potražite na blogu komponente SQL Release Services.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Autor\n* Enterprise\n* Express\n* Ekspresno s naprednim uslugama\n* za ugrađene sustave\n* Standardni\n* Standardno izdanje za mala poduzeća\n* Web\n* Radne grupe"

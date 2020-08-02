@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Vizualni studio 2010
+  description: Visual Studio 2010 slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808202"
+name: Vizualni studio 2010
+summary: >+
+  Visual Studio 2010 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+  To se odnosi na sljedeća izdanja: Agenti, Sve, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrirano), Shell (Izolirano), Team Agents, Team Explorer, Test Professional, Alati za Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C ++ Express, Visual Web Developer Express, Vizualizacija & Modeling SK
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Sve\n* ASP .NET MVC 4\n* Express\n* F # 2.0 Runtime\n* Upravljanje laboratorijem\n* Alati za performanse\n* Nagrada\n* Profesionalni\n* Daljinski program za ispravljanje pogrešaka\n* Sdk\n* Ljuska (integrirano)\n* Ljuska (izolirano)\n* Timski agenti\n* Preglednik timova\n* Test Professional\n* Alati za Office System 4.0 Runtime\n* Konačan\n* VB Express\n* Vizualni C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizacija & Modeliranje SDK"
