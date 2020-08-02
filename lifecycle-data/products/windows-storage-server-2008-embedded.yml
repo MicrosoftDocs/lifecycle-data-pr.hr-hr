@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008 uložen
+  description: Windows Storage Server 2008 uloženi slijedi pravilnik fiksnog životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808187"
+name: Windows Storage Server 2008 uložen
+summary: >+
+  Windows Storage Server 2008 uloženi slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+
+
+  To se odnosi na sljedeća izdanja: 32-bitni, 64-bitni, osnovni, osnovni 32-bitni, Enterprise, Standard, Radna grupa
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Ovaj proizvod je došao do kraja podrške. U nastavku potražite smjernice za migracije.\n\n## <a name=\"editions\"></a>Izdanja \n* 32-bitno\n* 64-bitno\n* Osnovne\n* Osnovni 32-bitni\n* Enterprise\n* Standardni\n* Radne grupe"
