@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualno računalo za Mac
+  description: Virtualno računalo za Mac slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808574"
+name: Virtualno računalo za Mac
+summary: >+
+  Virtualno računalo za Mac slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/12/2003
+  end: 04/13/2010
+releases:
+- version: Original Release
+  startDate: 11/12/2003
+  endDate: 01/13/2009
+content: "\n\n> [!NOTE]\n> Obuhvaćena verzija 5.01, verzija 5.02, verzija 5.03, verzija 5.04, verzija 6.01, verzija 6.02, verzija 6.1, verzija 6.1.1 ažuriranje, verzija 7, verzija 7.01"
