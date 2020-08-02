@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Osnove sustava Windows za naslijeđena računala
+  description: Osnove sustava Windows za naslijeđena računala slijede pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808032"
+name: Osnove sustava Windows za naslijeđena računala
+summary: >+
+  Osnove sustava Windows za naslijeđena računala slijede [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2006
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 05/31/2006
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ovaj proizvod slijedi ista pravila životnog ciklusa podrške kao i Windows XP."
