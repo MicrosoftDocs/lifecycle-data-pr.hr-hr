@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Glavnog računala Integracija Server 2006
+  description: Microsoft Glavnog računala Integracija Server 2006 slijedi pravilnik fiksni životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bb7b9894a034924a5ddeb112c903ae6891321264
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808363"
+name: Microsoft Glavnog računala Integracija Server 2006
+summary: "Microsoft Glavnog računala Integracija Server 2006 slijedi [pravilnik fiksni](/lifecycle/policies/fixed) životni ciklus.\n\nTo se odnosi na sljedeća izdanja: Razvojni programer,\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 01/27/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 1
+  startDate: 01/29/2010
+  endDate: 04/11/2017
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 04/12/2011
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Autor\n* Standardni"
