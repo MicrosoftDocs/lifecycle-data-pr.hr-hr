@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual J# Verzija 2.0 redistributable paket
+  description: Microsoft Visual J# Verzija 2.0 Redistributable Paket slijedi Fiksni životno ciklus pravila.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808220"
+name: Microsoft Visual J# Verzija 2.0 redistributable paket
+summary: >+
+  Microsoft Visual J# Verzija 2.0 Redistributable Paket slijedi [Fiksni](/lifecycle/policies/fixed) životno ciklus pravila.
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 04/22/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 04/22/2006
+  endDate: 07/12/2016
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o podršci za Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Podrška za ovaj proizvod je završena. U nastavku potražite smjernice za migracije."

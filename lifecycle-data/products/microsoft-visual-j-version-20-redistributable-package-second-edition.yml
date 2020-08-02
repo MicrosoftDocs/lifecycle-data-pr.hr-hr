@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Vidni J# Inačici 2.0 Redistributable Paket Onaj koji je u čemu drugi Izdanje
+  description: Microsoft Visual J# Verzija 2.0 Redistributable Paket Second Edition slijedi Pravilnik fiksnog životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808219"
+name: Microsoft Vidni J# Inačici 2.0 Redistributable Paket Onaj koji je u čemu drugi Izdanje
+summary: >+
+  Microsoft Visual J# Verzija 2.0 Redistributable Paket Second Edition slijedi [Pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 08/27/2007
+  end: 10/09/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 08/27/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o podršci za Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Podrška za ovaj proizvod je završena. U nastavku potražite smjernice za migracije."
