@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Izgled sustava Dynamics 365
+  description: Izgled sustava Dynamics 365 slijedi moderno pravilnik o životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868211"
+name: Izgled sustava Dynamics 365
+summary: >+
+  Izgled sustava Dynamics 365 slijedi [moderno](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 09/30/2018
+  end: 12/31/2021
+releases:
+- version: Original Release
+  startDate: 09/30/2018
+  endDate: 12/31/2021
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Izgled i daljinska pomoć](/dynamics365/mixed-reality/layout/faq)"

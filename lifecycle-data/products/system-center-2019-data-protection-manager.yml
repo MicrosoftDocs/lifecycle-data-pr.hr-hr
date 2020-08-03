@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Upravitelj zaštite podataka 2019 centar sustava 2019
+  description: Upravitelj zaštite podataka 2019 centar sustava slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 32b0f510b582e9c918a5e47ca02792837028cc91
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868273"
+name: Upravitelj zaštite podataka 2019 centar sustava 2019
+summary: >+
+  Upravitelj zaštite podataka 2019 centar sustava slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 03/14/2019
+  end: 04/09/2024
+  extendedEnd: 04/09/2029
+releases:
+- version: Original Release
+  startDate: 03/14/2019
+  endDate: 04/09/2029
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu](/system-center/)"

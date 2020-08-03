@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Servisa Skype za poslovne 2019 poslužitelja
+  description: Servisa Skype za Business Server 2019 slijedi pravilnik fiksni životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1e16227ae7297efb028f02ceb3ac8bfc11ce6864
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868284"
+name: Servisa Skype za poslovne 2019 poslužitelja
+summary: >+
+  Servisa Skype za Business Server 2019 slijedi [pravilnik fiksni](/lifecycle/policies/fixed) životni ciklus.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 10/22/2018
+  end: 01/09/2024
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 10/22/2018
+  endDate: 10/14/2025
+content: ''
