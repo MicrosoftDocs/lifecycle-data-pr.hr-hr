@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Okvirna jezgra entiteta
+  description: okvirne jezgre entiteta slijedi modernu politiku životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850463"
+name: Okvirna jezgra entiteta
+summary: >+
+  okvirne jezgre entiteta slijedi [modernu](/lifecycle/policies/modern) politiku životnog ciklusa.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Najčešća pitanja o životnom ciklusu - .NET Core](/lifecycle/faq/dotnet-core)\n* [Informacije o servisiranju](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET plan](https://github.com/dotnet/core/blob/master/roadmap.md)"

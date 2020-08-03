@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Servisa Skype za tvrtke 2015
+  description: Skype za poslovne 2015 slijedi pravilnik fiksnog životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850517"
+name: Servisa Skype za tvrtke 2015
+summary: >+
+  Skype za poslovne 2015 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n> [!NOTE]\n> Klijent: izdanje klijenta servisa Skype za poslovne 2015 ažuriranje je klijenta programa Lync 2013 i slijedit će isti životni ciklus proizvoda."

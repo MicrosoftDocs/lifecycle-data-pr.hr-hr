@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows uloženi uređaj Manager 2011
+  description: Windows uloženi device manager 2011 slijedi pravilnik fiksni životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2d201270f62cb33b4d7bd7f8ca6a7c43dfe01f06
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850536"
+name: Windows uloženi uređaj Manager 2011
+summary: >
+  Windows uloženi device manager 2011 slijedi [pravilnik fiksni](/lifecycle/policies/fixed) životni ciklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/29/2011
+  end: 01/08/2013
+  extendedEnd: 01/09/2018
+releases:
+- version: Service Pack 1
+  startDate: 12/07/2011
+  endDate: 01/09/2018
+- version: Original Release
+  startDate: 05/29/2011
+  endDate: 01/08/2013
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
