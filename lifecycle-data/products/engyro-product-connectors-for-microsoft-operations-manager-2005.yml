@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Engyro stvarajući Povezivanje za Microsoft Operacije Voditelj 2005
+  description: Engyro product connectors za Microsoft Operations Manager 2005 slijedi pravilnik fiksnog životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808807"
+name: Engyro stvarajući Povezivanje za Microsoft Operacije Voditelj 2005
+summary: >+
+  Engyro product connectors za Microsoft Operations Manager 2005 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/01/2007
+  end: 12/31/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/01/2007
+  endDate: 01/13/2015
+content: ''

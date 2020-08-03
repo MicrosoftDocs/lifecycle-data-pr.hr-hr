@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Razuman Aplikacija Veža 2007
+  description: Microsoft Intelligent Application Gateway 2007 slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808775"
+name: Microsoft Razuman Aplikacija Veža 2007
+summary: >
+  Microsoft Intelligent Application Gateway 2007 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku.
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/01/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 11/27/2008
+  endDate: 07/11/2017
+- version: Service Pack 1
+  startDate: 09/03/2007
+  endDate: 01/12/2010
+- version: Original Release
+  startDate: 06/01/2007
+  endDate: 10/14/2008
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Microsoft Intelligent Application Gateway 2007 Plan](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
