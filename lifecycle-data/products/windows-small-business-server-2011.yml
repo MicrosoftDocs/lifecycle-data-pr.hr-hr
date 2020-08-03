@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Small Business Server 2011
+  description: Windows Small Business Server 2011 slijedi pravilnik fiksnog životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850325"
+name: Windows Small Business Server 2011
+summary: >
+  Windows Small Business Server 2011 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+
+
+  To se odnosi na sljedeća izdanja: Essentials, Premium Add-On, Standard
+
+
+  > [!IMPORTANT]
+
+  > Datum podrške za ovaj paket proizvoda određuje se odgovarajućim životcima pojedinačnog sastavnog dijela. Pregledajte životni ciklus pojedinačnog sastavnog dijela kako biste odredili njegovu duljinu podrške.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://aka.ms/AA1ovn4)\n* [Migriranje Windows Small Business Server 2011 Standard na Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Osnove\n* Premium dodatak\n* Standardni"

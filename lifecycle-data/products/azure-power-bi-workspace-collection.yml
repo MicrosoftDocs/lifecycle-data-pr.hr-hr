@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Zbirka radnog prostora servisa Azure Power BI
+  description: Zbirka radnog prostora azure Power BI slijedi pravilnik modernog životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850128"
+name: Zbirka radnog prostora servisa Azure Power BI
+summary: >
+  Zbirka radnog prostora azure Power BI slijedi [pravilnik modernog](/lifecycle/policies/modern) životnog ciklusa.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška je završena. Pogledajte smjernice za migraciju u nastavku.
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 03/31/2016
+  end: 07/30/2018
+releases:
+- version: Original Release
+  startDate: 03/31/2016
+  endDate: 07/30/2018
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

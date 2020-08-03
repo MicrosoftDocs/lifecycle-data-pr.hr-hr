@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 9
+  description: Internet Explorer 9 slijedi pravilnik o životnom ciklusu komponenti.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850279"
+name: Internet Explorer 9
+summary: >+
+  Internet Explorer 9 slijedi pravilnik o životnom ciklusu [komponenti.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 03/15/2011
+releases:
+- version: Original Release
+  startDate: 03/15/2011
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://www.microsoft.com/itpro/microsoft-edge)\n* [Najčešća pitanja o pravilniku o životnom ciklusu preglednika Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Počevši od siječnja 12, 2016, samo najnovija verzija preglednika Internet Explorer dostupna za podržani operacijski sustav primit će tehničku podršku i sigurnosna ažuriranja."

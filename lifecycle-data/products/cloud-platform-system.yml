@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Sustav platforme u oblaku
+  description: Sustav platforme u oblaku slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850405"
+name: Sustav platforme u oblaku
+summary: >+
+  Sustav platforme u oblaku slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 01/29/2015
+  end: 04/14/2020
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/29/2015
+  endDate: 07/12/2022
+content: "\n\n> [!NOTE]\n> Podrška za sustav Cloud Platform proširena je kao što je prikazano kako bi se svim klijentima pružila standardna vremenska crta prijelaza životnog ciklusa.\n> [!NOTE]\n> Standard sustava platforme Cloud pokrenut rujna 18, 2017."

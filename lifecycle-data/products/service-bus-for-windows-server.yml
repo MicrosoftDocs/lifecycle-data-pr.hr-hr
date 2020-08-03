@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Servisna sabirnica za Windows Server
+  description: Servisna sabirnica za Windows Server slijedi pravilnik o životnom ciklusu komponente.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850335"
+name: Servisna sabirnica za Windows Server
+summary: >
+  Servisna sabirnica za Windows Server slijedi pravilnik o životnom ciklusu [komponente.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+
+  > [!IMPORTANT]
+
+  > Kada service bus 1.1 je komponenta SharePoint Server 2016 ili SharePoint Server 2013, ona će biti podržana prema kraju datuma podrške odgovarajuće verzije sustava SharePoint Server.
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/18/2012
+  end: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: ''

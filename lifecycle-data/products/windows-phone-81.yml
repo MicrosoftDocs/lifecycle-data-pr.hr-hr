@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8.1
+  description: Windows Phone 8.1 slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850418"
+name: Windows Phone 8.1
+summary: >
+  Windows Phone 8.1 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Najčešća pitanja o uređaju sa sustavom Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft će ažuriranja učiniti dostupnima za operacijski sustav, uključujući sigurnosna ažuriranja, najmanje 36 mjeseci nakon datuma početka životnog ciklusa. Ta će ažuriranja biti inkrementalna, pri kojem je svako ažuriranje izgrađeno na ažuriranju koje mu je prethodilo. Korisnici moraju instalirati svako ažuriranje kako bi ostali podržani. Distribucijom tih inkrementalnih ažuriranja može upravljati mobilni operater ili proizvođač telefona od kojeg ste kupili telefon, a instalacija će zahtijevati da vaš telefon ima prethodna ažuriranja. Dostupnost ažuriranja razlikovat će se i ovisno o zemlji, regiji i mogućnostima hardvera."

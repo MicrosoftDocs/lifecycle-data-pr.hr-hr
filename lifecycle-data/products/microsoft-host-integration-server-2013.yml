@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Glavnog računala Integracija Server 2013
+  description: Microsoft Glavnog računala Integracija Server 2013 slijedi pravilnik fiksni životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2d95fbc816dadeaac7c7ccb3d1780e299f8a124e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850259"
+name: Microsoft Glavnog računala Integracija Server 2013
+summary: >+
+  Microsoft Glavnog računala Integracija Server 2013 slijedi [pravilnik fiksni](/lifecycle/policies/fixed) životni ciklus.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 11/20/2013
+  end: 01/08/2019
+  extendedEnd: 01/09/2024
+releases:
+- version: Original Release
+  startDate: 11/20/2013
+  endDate: 01/09/2024
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)"
