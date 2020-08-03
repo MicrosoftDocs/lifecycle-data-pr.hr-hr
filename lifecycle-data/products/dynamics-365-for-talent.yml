@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 za talente
+  description: Dynamics 365 for Talent slijedi modernu pravilnik o životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868228"
+name: Dynamics 365 za talente
+summary: >+
+  Dynamics 365 for Talent slijedi [modernu](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+
+
+  To se odnosi na sljedeća izdanja: Onboard
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 07/31/2017
+  end: 02/02/2022
+releases:
+- version: Original Release
+  startDate: 07/31/2017
+  endDate: 02/02/2022
+content: "\n## <a name=\"links\"></a>Linkovi \n* [Sistemski preduvjeti](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Smjernice za migracije](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract i Onboard aplikacije će biti u mirovini veljače 2, 2022.  Core HR ponovno pokrenut kao Dynamics 365 Human Resources on March 1, 2020, pogledajte smjernice za migraciju za više informacija.\n\n## <a name=\"editions\"></a>Izdanja \n* Onboard"
