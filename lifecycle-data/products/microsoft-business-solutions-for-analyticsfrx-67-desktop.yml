@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Business Solutions for Analytics -- FRx 6,7 Radna površina
+  description: Microsoft Business Solutions for Analytics -- FRx 6.7 Desktop slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808724"
+name: Microsoft Business Solutions for Analytics -- FRx 6,7 Radna površina
+summary: >+
+  Microsoft Business Solutions for Analytics -- FRx 6.7 Desktop slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/30/2004
+  endDate: 07/08/2014
+content: "\n\n> [!NOTE]\n> FRx podrška završava na naznačeni datum, osim ako se distribuira kao komponenta dynamics proizvoda. Kada se distribuira s dynamics proizvodom, datumi životnog ciklusa sustava Dynamics nadjačavaju datume FRx."

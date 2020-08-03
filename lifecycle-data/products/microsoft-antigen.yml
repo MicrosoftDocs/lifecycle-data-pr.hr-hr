@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoftov antigen
+  description: Microsoft Antigen slijedi pravilnik o fiksnom životnom ciklusu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "808762"
+name: Microsoftov antigen
+summary: >+
+  Microsoft Antigen slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+  To se odnosi na sljedeća izdanja: 9.0 za Exchange, Enterprise Manager 9.0, za SMTP pristupnike, Spam Manager
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Plan za sigurnosne proizvode u okviru robne marke Forefront promijenio se.Ovaj proizvod je ukinut od 31.12.2015.\n\n## <a name=\"editions\"></a>Izdanja \n* 9.0 za zamjenu\n* Enterprise Manager 9,0\n* za SMTP pristupnike\n* Spam Manager"
