@@ -1,27 +1,27 @@
 ---
-title: Izvoz proizvoda
+title: Izvoz podataka u životnom ciklusu
 description: Izvoz podataka o životnom ciklusu proizvoda
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899794"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902394"
 ---
-# <a name="export"></a>Izvoz
+# <a name="lifecycle-data-export"></a>Izvoz podataka u životnom ciklusu
 
 > [!IMPORTANT]
 > Ova je stranica u odjeljku razvoj.
 
 ## <a name="export-all-products"></a>Izvoz svih proizvoda
-Izvezite sve proizvode bez filtara.
+Izvoz podataka o životnom ciklusu za sve proizvode klikom na ispod:
 
 > [!div class="nextstepaction"]
 > [Izvoz svih proizvoda](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Izvoz proizvoda prema kategorijama
-Odaberite grupiranje za izvoz:
+## <a name="export-products-by-family-and-group"></a>Izvoz proizvoda prema obitelji i grupi
+Odaberite obitelj, a zatim grupu za izvoz. Pažnja: izvoz će početi kada se odabere grupna vrijednost. 
 
 > [!div class="op_multi_selector" title1="Obitelj" title2="Grupi"]
 > - [(.NET | Sve](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Odaberite grupiranje za izvoz:
 > - [(Windows | Sigurnost](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Izvoz proizvoda do kraja godine podrške
-Odaberite godinu za izvoz proizvoda koji završavaju servis u toj godini:
+## <a name="export-products-by-end-of-support-date"></a>Izvoz proizvoda prema završetku datuma podrške
+Odaberite godinu da biste vidjeli proizvode koji dostižu kraj podrške. Pažnja: izvoz će početi kada je odabrana vrijednost godina.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
