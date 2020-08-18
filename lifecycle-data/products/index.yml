@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Informacije o životnom ciklusu proizvoda i usluga pretraživanja (pretpregled)
+title: Pretraživanje informacija o životnom ciklusu proizvoda i servisa (pretpregled)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Ova stranica je u razvoju. Potpuni popis Microsoftovih proizvoda i njihove vremenske crte i pojedinosti podrške potražite [u aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Izvoz informacija o životnom ciklusu sa stranice [Izvoz životnog ciklusa.](/lifecycle/export/products)\n\n\nMicrosoftov životni ciklus pruža dosljedne i predvidljive smjernice za podršku tijekom cijelog života proizvoda, pomažući korisnicima u upravljanju svojim IT ulaganjima i okruženjima, a strateški planirati budućnost.\n\n\nU nastavku potražite popis Microsoftovih komercijalnih proizvoda i usluga, a zatim odaberite rezultat da biste pronašli vremenske crte podrške i servisiranja, potrebna ažuriranja, informacije o migraciji i sistemske preduvjete."
+summary: "\n\n> [!IMPORTANT]\n> Ova stranica je u razvoju i bit će u potpunosti uživo 2. U međuvremenu možete pogledati cijeli popis Microsoftovih proizvoda uz njihove vremenske linije podrške i pojedinosti na servisu [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Izvoz podataka o životnom ciklusu iz stranice za [Izvoz životnog ciklusa](/lifecycle/export/products)\n\n\nMicrosoftov životni ciklus nudi dosljedne i predvidljive smjernice za podršku tijekom cijelog trajanja proizvoda, pomažući korisnicima da upravljaju svojim IT investicijama i okruženjima dok strateški planiraju budućnost.\n\n\nU nastavku potražite popis Microsoftovih komercijalnih proizvoda i servisa, a zatim odaberite rezultat da biste potražili podršku i servisne vremenske crte, obavezna ažuriranja, informacije o migraciji i sistemske preduvjete."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882428"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899831"
