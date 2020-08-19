@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: PolicyMaker slijedi pravilnik o popravnom životnom ciklusu.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903917"
+name: PolicyMaker
+summary: >+
+  PolicyMaker slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+  To se odnosi na sljedeća izdanja: sigurnost aplikacije, Outlook Edition, Professional 9,0, proširenje registra 2,0, zajedničko korištenje upravitelja 1,0, softversko ažuriranje 1,0, softversko ažuriranje 2,0, standard 1,0, standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Podrška za ovaj proizvod podliježe odredbama njegove nabave.\n\n## <a name=\"editions\"></a>Izdanja \n* Sigurnost aplikacije\n* Izdanje programa Outlook\n* Stručni 9,0\n* Ekstenzija registra 2,0\n* Zajedničko korištenje upravitelja 1,0\n* Ažuriranje softvera 1,0\n* Ažuriranje softvera 2,0\n* Standardni 1,0\n* Standardni 2,0"
