@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Standardna standardna verzija sustava Windows 7
-  description: Windows Uloženi Standard 7 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Windows Embedded Standard 7
+  description: Windows Embedded Standard 7 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808554"
-name: Standardna standardna verzija sustava Windows 7
+name: Windows Embedded Standard 7
 summary: >+
-  Windows Uloženi Standard 7 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Windows Embedded Standard 7 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Standardna
+  To se odnosi na sljedeća izdanja: Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Linkovi \n* [* Extended Security Update Program (ESU) - Proširena sigurnosna ažuriranja za odabrane ugrađene proizvode dostupna su putem OEM-ova](/lifecycle/faq/extended-security-updates)\n* [Smjernice za migracije](https://support.microsoft.com/help/4057281)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Proširena sigurnosna ažuriranja (ESU) dostupna su za Standardno 7 sustava Windows embedded do dodatne tri godine nakon završetka podrške putem OEM-ova. Da biste saznali više, obratite se Microsoftovu partneru ili timu za račun.\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [* Program proširenih sigurnosnih ažuriranja (ESU) - Proširena sigurnosna ažuriranja za odabrane ugrađene proizvode dostupna su putem OEM-ova.](/lifecycle/faq/extended-security-updates)\n* [Smjernice za migracije](https://support.microsoft.com/help/4057281)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> *Proširena sigurnosna ažuriranja (ESU) dostupna su za Windows Embedded Standard 7 za dodatne tri godine nakon obustave podrške pomoću OEM-ova. Da biste saznali više, kontaktirajte svog Microsoft partnera ili tim za račun.\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"

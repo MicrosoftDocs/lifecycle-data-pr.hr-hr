@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2008 R2 paralelno skladište podataka
-  description: Microsoft SQL Server 2008 R2 paralelno skladište podataka slijedi pravilnik fiksnog životnog ciklusa.
+  title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
+  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808309"
-name: Microsoft SQL Server 2008 R2 paralelno skladište podataka
+name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
 summary: >+
-  Microsoft SQL Server 2008 R2 paralelno skladište podataka slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft SQL Server 2008 R2 Parallel Data Warehouse slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 products:

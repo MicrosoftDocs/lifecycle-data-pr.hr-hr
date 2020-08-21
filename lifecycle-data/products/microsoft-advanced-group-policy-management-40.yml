@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftovo napredno upravljanje pravilima grupe 4,0
-  description: Microsoft Advanced Group Policy Management 4.0 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Microsoft Advanced Group Policy Management 4.0
+  description: Microsoft Advanced Group Policy Management 4.0 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808765"
-name: Microsoftovo napredno upravljanje pravilima grupe 4,0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Microsoft Advanced Group Policy Management 4.0 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Advanced Group Policy Management 4.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Linkovi \n* [MDOP informacije iskustvo](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [MDOP informacijsko iskustvo](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)"

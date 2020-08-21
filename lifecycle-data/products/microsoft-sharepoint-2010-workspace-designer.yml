@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (radni prostor, dizajner)
-  description: Microsoft SharePoint 2010 (Workspace, Dizajner) slijedi pravilnik fiksnog životnog ciklusa.
+  title: Microsoft SharePoint 2010 (Workspace, Designer)
+  description: Microsoft SharePoint 2010 (Workspace, Designer) slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808081"
-name: Microsoft SharePoint 2010 (radni prostor, dizajner)
+name: Microsoft SharePoint 2010 (Workspace, Designer)
 summary: >+
-  Microsoft SharePoint 2010 (Workspace, Dizajner) slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft SharePoint 2010 (Workspace, Designer) slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Dizajner, Radni prostor
+  To se odnosi na sljedeća izdanja: Designer, Workspace
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Dokumentacija razvojnog programera](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacija o proizvodu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Izdanja \n* Dizajner\n* Radnog prostora"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Dokumentacija razvojnog programera](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacija o proizvodu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Izdanja \n* Designer\n* Workspace"

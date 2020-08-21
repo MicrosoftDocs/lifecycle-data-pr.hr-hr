@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Sync Framework 1,0
-  description: Microsoft Sync Framework 1.0 slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Microsoft Sync Framework 1.0
+  description: Microsoft Sync Framework 1.0 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808642"
-name: Microsoft Sync Framework 1,0
+name: Microsoft Sync Framework 1.0
 summary: >
-  Microsoft Sync Framework 1.0 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Sync Framework 1.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Podrška za Sync Framework 1.0 SP1 završava na datum naznačeno osim ako distribuira kao komponenta SharePoint Server 2010, 2013, 2016 ili 2019. Komponente dobivaju istu podršku kao i njihov nadređeni proizvod ili platforma."
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Podrška za Sync Framework 1.0 SP1 završava na naznačeni datum osim ako se distribuira kao komponenta sustava SharePoint Server 2010, 2013, 2016 ili 2019. Komponente dobivaju istu podršku kao i nadređeni proizvod ili platforma."

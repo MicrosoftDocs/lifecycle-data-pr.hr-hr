@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics AKSIMUM 2009
-  description: Dynamics AKSIMUM 2009 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Dynamics AX 2009
+  description: Dynamics AX 2009 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808130"
-name: Dynamics AKSIMUM 2009
+name: Dynamics AX 2009
 summary: >+
-  Dynamics AKSIMUM 2009 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Dynamics AX 2009 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Program migracije sustava Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatne informacije o životnom ciklusu](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Osnovna podrška proširena je kako je prikazano."
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Program migracije sustava Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatne informacije o životnom ciklusu](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Osnovna je podrška produljena kao što je prikazano."

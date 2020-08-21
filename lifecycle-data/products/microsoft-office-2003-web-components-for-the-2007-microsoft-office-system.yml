@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Web-komponente sustava Microsoft Office 2003 za microsoft office sustav 2007
-  description: Microsoft Office 2003 web-komponente za sustav Microsoft Office 2007 slijede pravilnik o životnom ciklusu komponente.
+  title: Web-komponente sustava Microsoft Office 2003 za sustav Microsoft Office 2007
+  description: Web-komponente sustava Microsoft Office 2003 za sustav Microsoft Office 2007 slijede pravilnik o životnom ciklusu komponente.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808103"
-name: Web-komponente sustava Microsoft Office 2003 za microsoft office sustav 2007
+name: Web-komponente sustava Microsoft Office 2003 za sustav Microsoft Office 2007
 summary: >+
-  Microsoft Office 2003 web-komponente za sustav Microsoft Office 2007 slijede pravilnik o životnom ciklusu [komponente.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Web-komponente sustava Microsoft Office 2003 za sustav Microsoft Office 2007 slijede pravilnik o životnom ciklusu [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/office/troubleshoot/support/office-2007-not-support)"

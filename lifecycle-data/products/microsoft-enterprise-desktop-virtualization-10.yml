@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualizacija radne površine microsoft enterprisea 1,0
-  description: Microsoft Enterprise Desktop Virtualization 1.0 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808689"
-name: Virtualizacija radne površine microsoft enterprisea 1,0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  Microsoft Enterprise Desktop Virtualization 1.0 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Enterprise Desktop Virtualization 1.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Enterprise
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise"

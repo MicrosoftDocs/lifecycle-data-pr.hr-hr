@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013 slijedi pravilnik fiksnog životnog ciklusa.
+  description: Microsoft Lync Server 2013 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808348"
 name: Microsoft Lync Server 2013
 summary: >+
-  Microsoft Lync Server 2013 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Lync Server 2013 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Enterprise, Persistent Chat Software Development Kit, Telefon, SDK, Standard
+  To se odnosi na sljedeća izdanja: Enterprise, komplet za razvoj softvera za trajni razgovor, telefon, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition podržan je pomoću programa Lync Server 2010 i Lync Server 2013. Datum podrške za Lync Phone Edition produljen je 2 godine da bi se uskladio s životnim ciklusom Lync Server 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Postojani Chat Software Development Kit\n* Telefon\n* Sdk\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition podržan je pomoću programa Lync Server 2010 i Lync Server 2013. Datum podrške za Lync Phone Edition produljen je 2 godine da bi se uskladio sa životnim ciklusom Lync Server 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Razvojni paket softvera za trajni razgovor\n* Telefon\n* SDK\n* Standard"

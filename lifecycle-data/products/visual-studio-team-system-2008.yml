@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vizualni studio timski sustav 2008
-  description: Visual Studio Team System 2008 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Visual Studio Team System 2008
+  description: Visual Studio Team System 2008 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808569"
-name: Vizualni studio timski sustav 2008
+name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Visual Studio Team System 2008 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Sve, Arhitektura, Baza podataka, Razvoj, Team Explorer, Team Test Load Agent
+  To se odnosi na sljedeća izdanja: Sve, Architecture, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Smjernice za migracije](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Sve\n* Arhitekture\n* Baze podataka\n* Razvoj\n* Preglednik timova\n* Agent za testiranje timskog testiranja"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Smjernice za migracije](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* All\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent"
