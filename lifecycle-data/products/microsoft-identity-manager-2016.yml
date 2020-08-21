@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Identity Manager 2016
-  description: Microsoft Identity Manager 2016 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Identity Manager 2016
+  description: Microsoft Identity Manager 2016 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850257"
-name: Microsoft Identity Manager 2016
+name: Identity Manager 2016
 summary: >+
-  Microsoft Identity Manager 2016 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Identity Manager 2016 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2015
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Podrška za Azure dostupna je za komponente integracije Azure AD do kraja proširene podrške za Microsoft Identity Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure planove podrške.](https://azure.microsoft.com/support/plans/)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n* [Informacije o proizvodu](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Azure podrška dostupna je za Azure AD integracijske komponente do kraja Proširene podrške za Microsoft Identitiy Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure planovi podrške.](https://azure.microsoft.com/support/plans/)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n* [Informacije o proizvodu](/microsoft-identity-manager/microsoft-identity-manager-2016)"

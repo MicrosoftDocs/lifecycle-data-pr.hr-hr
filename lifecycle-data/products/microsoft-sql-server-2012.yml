@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2012
-  description: Microsoft SQL Server 2012 slijedi pravilnik fiksnog životnog ciklusa.
+  description: Microsoft SQL Server 2012 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850223"
 name: Microsoft SQL Server 2012
 summary: >+
-  Microsoft SQL Server 2012 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft SQL Server 2012 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, za ugrađene sustave, Standard, Web
+  To se odnosi na sljedeća izdanja: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, za Embedded Systems, Standard, Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Poslovna inteligencija\n* Autor\n* Enterprise\n* Korporacijska jezgra\n* Express\n* za ugrađene sustave\n* Standardni\n* Web"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* za Embedded Systems\n* Standard\n* Web"

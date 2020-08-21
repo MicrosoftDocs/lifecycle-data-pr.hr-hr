@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office za Mac 2011
-  description: Microsoft Office za Mac 2011 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft Office za Mac 2011 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850227"
 name: Microsoft Office za Mac 2011
 summary: >+
-  Microsoft Office za Mac 2011 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Office za Mac 2011 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: Akademski, Dom i Business, Home and Business Home Use Program, Home and Student, Standard
+  To se odnosi na sljedeća izdanja: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Osnovna podrška za Microsoft Office za Mac 2011 proširena je kao što je prikazano kako bi se svim korisnicima pružila standardna vremenska traka prijelaza životnog ciklusa.\n\n## <a name=\"editions\"></a>Izdanja \n* Akademske\n* Dom i posao\n* Program za kućnu upotrebu kod kuće i tvrtke\n* Dom i student\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Osnovna podrška za Microsoft Office za Mac 2011 produljena je kao što je prikazano kako bi se svim korisnicima pružila standardno vrijeme prijelaza životnog ciklusa.\n\n## <a name=\"editions\"></a>Izdanja \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"

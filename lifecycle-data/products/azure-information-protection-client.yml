@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Klijent azure information protection
-  description: Azure Information Protection klijent slijedi modernu pravilnik o životnom ciklusu.
+  title: Azure Information Protection klijent
+  description: Azure Information Protection klijent slijedi moderni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850116"
-name: Klijent azure information protection
+name: Azure Information Protection klijent
 summary: >+
-  Azure Information Protection klijent slijedi [modernu](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Azure Information Protection klijent slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o servisiranju](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Da bi se omogućilo objedinjeno i pojednostavljeno korisničko iskustvo, klijent za zaštitu podataka azure (klasični) i upravljanje oznakama na portalu Azure obustavljaju se od ožujka 31, 2021. Ovaj vremenski okvir omogućuje svim trenutnim korisnicima azure information protectionprijeći na naše jedinstveno rješenje za označavanje pomoću platforme za objedinjeno označavanje Microsoftove informacijske zaštite."
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Da bi se omogućilo objedinjeno i pojednostavljeno korisničko iskustvo, klijent Azure Information Protection (klasični) i Label Management na portalu Azure obustavljaju se od 31. ožujka 2021. Ovaj vremenski okvir omogućuje svim trenutnim korisnicima Azure Information Protection prijelaz na naše unificirano rješenje za označavanje platformu Information Protection Unified Labeling."
