@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows uloženi uređaj Manager 2011
-  description: Windows uloženi device manager 2011 slijedi pravilnik fiksni životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d201270f62cb33b4d7bd7f8ca6a7c43dfe01f06
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Windows Embedded upravitelj uređaja 2011
+  description: Windows Embedded upravitelj uređaja 2011 slijedi pravilnik o ispravnom životnom ciklusu.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850536"
-name: Windows uloženi uređaj Manager 2011
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906759"
+name: Windows Embedded upravitelj uređaja 2011
 summary: >
-  Windows uloženi device manager 2011 slijedi [pravilnik fiksni](/lifecycle/policies/fixed) životni ciklus.
+  Windows Embedded upravitelj uređaja 2011 slijedi pravilnik o [ispravnom](/lifecycle/policies/fixed) životnom ciklusu.
 
+
+  To se odnosi na sljedeća izdanja: Client, SDK, Server
 
 
   > [!IMPORTANT]
@@ -32,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik o servisnom paketu](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Klijent\n* SDK\n* Server"

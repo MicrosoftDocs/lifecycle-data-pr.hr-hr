@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lokalni centar sustava Dynamics 365 (moderna pravila)
-  description: Lokalni lokalni prostor sustava Dynamics 365 Business Central (moderna pravila) slijedi pravilnik o modernom životnom ciklusu.
+  title: Lokalni Dynamics 365 Business Central (Moderni pravilnik)
+  description: Lokalni Dynamics 365 Business Central (moderni pravilnik) slijedi moderni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868218"
-name: Lokalni centar sustava Dynamics 365 (moderna pravila)
+name: Lokalni Dynamics 365 Business Central (Moderni pravilnik)
 summary: >+
-  Lokalni lokalni prostor sustava Dynamics 365 Business Central (moderna pravila) slijedi [pravilnik o modernom](/lifecycle/policies/modern) životnom ciklusu.
+  Lokalni Dynamics 365 Business Central (moderni pravilnik) slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: 2019 release wave 2, version 15.x
   startDate: 10/01/2019
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o servisiranju](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Plan sustava Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Sistemski preduvjeti](/dynamics365/business-central/product-requirements)\n* [Najčešća pitanja](/dynamics365/business-central/dev-itpro/faq)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Plan sustava Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Sistemski preduvjeti](/dynamics365/business-central/product-requirements)\n* [Najčešća pitanja](/dynamics365/business-central/dev-itpro/faq)"
