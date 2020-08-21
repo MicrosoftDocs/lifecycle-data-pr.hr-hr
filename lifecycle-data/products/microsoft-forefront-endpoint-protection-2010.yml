@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Endpoint Protection 2010
-  description: Microsoft Forefront Endpoint Protection 2010 slijedi pravilnik fiksnog životnog ciklusa.
+  description: Microsoft Forefront Endpoint Protection 2010 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850437"
 name: Microsoft Forefront Endpoint Protection 2010
 summary: >
-  Microsoft Forefront Endpoint Protection 2010 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Forefront Endpoint Protection 2010 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2011
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informacije o servisiranju](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Korisnici moraju ostati u tijeku s najnovijim ažuriranjem platforme za zaštitu od zlonamjernog softvera kako bi bili u potpunosti podržani. Forefront Endpoint Protection 2010 obuhvaćen je istim pravilnikom o životnom ciklusu kao upravitelj konfiguracije centar sustava 2007 za osnovnu i proširenu podršku."
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informacije o servisiranju](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Korisnici moraju ostati u tijeku s najnovijim ažuriranjem platforme za zaštitu od zlonamjernog softvera kako bi bili u potpunosti podržani. Forefront Endpoint Protection 2010 obuhvaćen je istim pravilnikom o životnom ciklusu kao System Center Configuration Manager 2007 za osnovnu i proširenu podršku."

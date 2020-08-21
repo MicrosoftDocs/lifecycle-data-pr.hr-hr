@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 5,0
-  description: Microsoft Application Virtualization 5.0 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Microsoft Application Virtualization 5.0
+  description: Microsoft Application Virtualization 5.0 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850276"
-name: Microsoft Application Virtualization 5,0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5.0 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Application Virtualization 5.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: za servise udaljene radne površine za terminalske servise za Stolna računala sustava Windows
+  To se odnosi na sljedeća izdanja: za Remote Desktop Services, za Terminal Services, za Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* za servise udaljene radne površine\n* za terminalske usluge\n* za Radne površine sustava Windows"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* za Remote Desktop Services\n* za Terminal Services\n* za Windows Desktops"

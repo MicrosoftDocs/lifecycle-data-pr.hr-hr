@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center 2012 App Controller
-  description: Microsoft System Center 2012 App Controller slijedi pravilnik fiksnog životnog ciklusa.
+  description: Microsoft System Center 2012 App Controller slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850344"
 name: Microsoft System Center 2012 App Controller
 summary: >+
-  Microsoft System Center 2012 App Controller slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft System Center 2012 App Controller slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o centru sustava](/system-center/#pivot=components&panel=components-all)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 sastoji se od komponenti: Upravitelj konfiguracije Upravitelj zaštite podataka Upravitelj operacija Upravitelj Upravitelj upravitelj usluga Upravitelj usluga Upravljanje Automatizacija Virtualni stroj Upravitelj Usluga Foundation"
+content: "\n## <a name=\"links\"></a>Veze \n* [System Center Information](/system-center/#pivot=components&panel=components-all)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 sastoji se od komponenti: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"

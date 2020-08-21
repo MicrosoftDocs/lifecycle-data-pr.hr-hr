@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Poslužitelj za pohranu 2012 R2
-  description: Windows Storage Server 2012 R2 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Windows Storage Server 2012 R2
+  description: Windows Storage Server 2012 R2 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850531"
-name: Windows Poslužitelj za pohranu 2012 R2
+name: Windows Storage Server 2012 R2
 summary: >+
-  Windows Storage Server 2012 R2 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Windows Storage Server 2012 R2 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Essentials, Standard, Workgroup
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Osnovna i proširena podrška za ovaj proizvod proširena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa.\n> [!NOTE]\n> Datum početka izdanja Essentials je rujan 25, 2014. \n\n## <a name=\"editions\"></a>Izdanja \n* Osnove\n* Standardni\n* Radne grupe"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Osnovna i proširena podrška za ovaj proizvod produžena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa.\n> [!NOTE]\n> Datum početka izdanja Essentials je 25. rujna 2014. \n\n## <a name=\"editions\"></a>Izdanja \n* Essentials\n* Standard\n* Workgroup"
