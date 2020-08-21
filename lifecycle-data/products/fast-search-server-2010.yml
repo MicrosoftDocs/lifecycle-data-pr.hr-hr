@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: FAST Search Server 2010 (za internetske stranice, za interne aplikacije)
-  description: FAST Search Server 2010 (za internetske stranice, za interne aplikacije) slijedi pravilnik fiksnog životnog ciklusa.
+  description: FAST Search Server 2010 (za internetske stranice, za interne aplikacije) slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808798"
 name: FAST Search Server 2010 (za internetske stranice, za interne aplikacije)
 summary: >+
-  FAST Search Server 2010 (za internetske stranice, za interne aplikacije) slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  FAST Search Server 2010 (za internetske stranice, za interne aplikacije) slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Interne aplikacije, internetska web-mjesta
+  To se odnosi na sljedeća izdanja: Interne aplikacije, internetske stranice
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Često postavljana pitanja o životnom ciklusu - Općenito](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Izuzima verzije koje su prethodno bile podržane. Podrška za ovaj proizvod podliježe uvjetima stjecanja.\n\n## <a name=\"editions\"></a>Izdanja \n* Interne aplikacije\n* Internetske stranice"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Najčešća pitanja o životnom ciklusu - Općenito](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Izuzima verzije koje su prethodno bile podržane. Podrška za ovaj proizvod temelji se na uvjetima nabave.\n\n## <a name=\"editions\"></a>Izdanja \n* Interne aplikacije\n* Internetske stranice"

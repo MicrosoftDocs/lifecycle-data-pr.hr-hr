@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint 2010 (za internetska web-mjesta)
-  description: Microsoft SharePoint 2010 (za internetska web-mjesta) slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft SharePoint 2010 (za internetska web-mjesta) slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808645"
 name: Microsoft SharePoint 2010 (za internetska web-mjesta)
 summary: >+
-  Microsoft SharePoint 2010 (za internetska web-mjesta) slijedi pravilnik [o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft SharePoint 2010 (za internetska web-mjesta) slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: za Internet Sites Enterprise, za Internet Sites Standard
+  To se odnosi na sljedeća izdanja: for Internet Sites Enterprise, for Internet Sites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Dokumentacija o proizvodu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacija razvojnog programera](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Datum završetka podrške ovog proizvoda produljen je od 13.\n\n## <a name=\"editions\"></a>Izdanja \n* za Internet Sites Enterprise\n* za Internet Sites Standard"
+content: "\n## <a name=\"links\"></a>Veze \n* [Dokumentacija o proizvodu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacija razvojnog programera](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> datum obustave podrške za ovaj proizvod pomaknut je s 13. listopada 2020. na 13. travnja 2021.\n\n## <a name=\"editions\"></a>Izdanja \n* for Internet Sites Enterprise\n* for Internet Sites Standard"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoftov okvir za korisničku podršku 2009
-  description: Microsoft Customer Care Framework 2009 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft Customer Care Framework 2009 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808696"
 name: Microsoftov okvir za korisničku podršku 2009
 summary: >
-  Microsoft Customer Care Framework 2009 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Customer Care Framework 2009 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2008
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)"

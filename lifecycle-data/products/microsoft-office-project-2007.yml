@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Project 2007
-  description: Microsoft Office Project 2007 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft Office Project 2007 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36bad214333805bfa18d06a194e9a5748a70baa1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808665"
 name: Microsoft Office Project 2007
 summary: >+
-  Microsoft Office Project 2007 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Office Project 2007 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Professional, Standard
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/office/troubleshoot/support/office-2007-not-support)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Profesionalni\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/office/troubleshoot/support/office-2007-not-support)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Professional\n* Standard"

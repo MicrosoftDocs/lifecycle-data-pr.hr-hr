@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 4,6
-  description: Microsoft Application Virtualization 4.6 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Microsoft Application Virtualization 4.6
+  description: Microsoft Application Virtualization 4.6 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808758"
-name: Microsoft Application Virtualization 4,6
+name: Microsoft Application Virtualization 4.6
 summary: >+
-  Microsoft Application Virtualization 4.6 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Application Virtualization 4.6 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: za servise udaljene radne površine za Windows Desktops, Sequencer
+  To se odnosi na sljedeća izdanja: za Remote Desktop Services, za Windows Desktops, Sequencer
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu i migraciji](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Budući da klijent App-V 4.6 koristi App-V 4.5 Server, App-V 4.5 Server i dalje će biti podržan prema datumima životnog ciklusa App-V 4.6 kada se koristi s podržanim app-V 4.6 klijentom.\n\n## <a name=\"editions\"></a>Izdanja \n* za servise udaljene radne površine\n* za Radne površine sustava Windows\n* Sekvencer"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu i migraciji](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Budući da klijent App-V 4.6 koristi App-V 4.5 Server, App-V 4.5 Server i dalje će biti podržan prema datumima životnog ciklusa App-V 4.6 kada se koristi s podržanim app-V 4.6 klijentom.\n\n## <a name=\"editions\"></a>Izdanja \n* za Remote Desktop Services\n* za Windows Desktops\n* Sequencer"

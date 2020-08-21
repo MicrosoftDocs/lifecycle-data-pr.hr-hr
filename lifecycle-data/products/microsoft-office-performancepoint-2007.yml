@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PerformancePoint 2007
-  description: Microsoft Office PerformancePoint 2007 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft Office PerformancePoint 2007 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d9c4030975b8cd865165db64c6857ef9090b1888
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809014"
 name: Microsoft Office PerformancePoint 2007
 summary: >+
-  Microsoft Office PerformancePoint 2007 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Office PerformancePoint 2007 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Management Reporter
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Management Reporter"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Management Reporter"

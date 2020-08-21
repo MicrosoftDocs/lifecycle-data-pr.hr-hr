@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Winternals (1999.)
-  description: Winternals slijedi fiksni životni ciklus politike.
+  title: Winternals
+  description: Winternals slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808183"
-name: Winternals (1999.)
+name: Winternals
 summary: >+
-  Winternals slijedi [fiksni](/lifecycle/policies/fixed) životni ciklus politike.
+  Winternals slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravilnik o životnom ciklusu za microsoftove akvizicije](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Izuzima verzije koje su prethodno bile podržane. Podrška za ovaj proizvod podliježe uvjetima stjecanja.\n\n## <a name=\"editions\"></a>Izdanja \n* Administratorski Pak 5,0\n* Defrag Manager 3,0\n* Upravitelj zaštite 2,0\n* Recovery Manager 3,0"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik o životnom ciklusu za Microsoftove akvizicije](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Izuzima verzije koje su prethodno bile podržane. Podrška za ovaj proizvod temelji se na uvjetima nabave.\n\n## <a name=\"editions\"></a>Izdanja \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"

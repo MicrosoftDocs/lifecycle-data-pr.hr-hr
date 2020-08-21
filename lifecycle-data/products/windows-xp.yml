@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP
-  description: Windows XP slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Windows XP slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808184"
 name: Windows XP
 summary: >
-  Windows XP slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows XP slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Home, Professional, Professional for Embedded Systems, Starter
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Kući\n* Profesionalni\n* Profesionalno za ugrađene sustave\n* Starter"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Home\n* Professional\n* Professional za Embedded Systems\n* Starter"

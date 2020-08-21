@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 za Windows Desktops
-  description: Microsoft Application Virtualization Hosting 4.6 za Windows Desktops slijedi Pravilnik fiksnog životnog ciklusa.
+  title: Microsoftova aplikacija za virtualizaciju Hosting 4.6 za radne ploče sustava Windows
+  description: Microsoft Application Virtualization Hosting 4.6 za Windows Desktops slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808752"
-name: Microsoft Application Virtualization Hosting 4.6 za Windows Desktops
+name: Microsoftova aplikacija za virtualizaciju Hosting 4.6 za radne ploče sustava Windows
 summary: >+
-  Microsoft Application Virtualization Hosting 4.6 za Windows Desktops slijedi [Pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Application Virtualization Hosting 4.6 za Windows Desktops slijedi [Fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: za Windows Desktops
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu i migraciji](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Budući da klijent App-V 4.6 koristi App-V 4.5 Server, App-V 4.5 Server i dalje će biti podržan prema datumima životnog ciklusa App-V 4.6 kada se koristi s podržanim app-V 4.6 klijentom.\n\n## <a name=\"editions\"></a>Izdanja \n* za Radne površine sustava Windows"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu i migraciji](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Budući da klijent App-V 4.6 koristi App-V 4.5 Server, App-V 4.5 Server i dalje će biti podržan prema datumima životnog ciklusa App-V 4.6 kada se koristi s podržanim app-V 4.6 klijentom.\n\n## <a name=\"editions\"></a>Izdanja \n* za Windows Desktops"

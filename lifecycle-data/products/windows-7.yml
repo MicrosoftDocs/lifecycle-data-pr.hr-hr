@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 7
-  description: Windows 7 slijedi Pravilnik o fiksnom životnom ciklusu.
+  description: Windows 7 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808043"
 name: Windows 7
-summary: "Windows 7 slijedi [Pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. \n"
+summary: "Windows 7 slijedi [Fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional za Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate za Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> '* Proširena sigurnosna ažuriranja (ESU) dostupna su putem određenih programa količinskog licenciranja za izdanja sustava Windows 7 Professional, Enterprise i Professional for Embedded Systems ovog proizvoda, do dodatnih tri godine nakon završetka podrške. Da biste saznali više, obratite se Microsoftovu partneru ili timu za račun. \n\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://support.microsoft.com/help/4057281)\n* [Nadogradnja sa sustava Windows 7 na Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Prošireni program sigurnosnog ažuriranja (ESU)](/lifecycle/faq/extended-security-updates)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Poduzeće N\n* Početna Osnovni\n* Početna Premium\n* Početna Premium N\n* Profesionalni\n* Profesionalno za ugrađene sustave\n* Profesionalna N\n* Starter\n* Starter N\n* Konačan\n* Konačan za Ugrađen Sistem\n* Konačan N"
+content: "> [!TIP]\n> '* Proširena sigurnosna ažuriranja (ESU) dostupna su putem posebnih programa količinskog licenciranja za verzije Windows 7 Professional, Enterprise te Professional za Embedded Systems ovog proizvoda za dodatne tri godine nakon obustave podrške. Da biste saznali više, kontaktirajte svog Microsoft partnera ili tim za račun. \n\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://support.microsoft.com/help/4057281)\n* [Nadogradnja sa sustava Windows 7 na sustav Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Program proširenog sigurnosnog ažuriranja (ESU)](/lifecycle/faq/extended-security-updates)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional za Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate za Embedded Systems\n* Ultimate N"
