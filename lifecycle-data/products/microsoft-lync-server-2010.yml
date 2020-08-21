@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2010
-  description: Microsoft Lync Server 2010 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft Lync Server 2010 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/30/2020
   ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879443"
 name: Microsoft Lync Server 2010
 summary: >+
-  Microsoft Lync Server 2010 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Lync Server 2010 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Enterprise, Group Chat Software Development Kit, SDK, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition podržan je pomoću programa Lync Server 2010 i Lync Server 2013. Datum podrške za Lync Phone Edition produljen je 2 godine da bi se uskladio s životnim ciklusom Lync Server 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Grupa Chat Software Development Kit\n* Sdk\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition podržan je pomoću programa Lync Server 2010 i Lync Server 2013. Datum podrške za Lync Phone Edition produljen je 2 godine da bi se uskladio sa životnim ciklusom Lync Server 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Group Chat Software Development Kit\n* SDK\n* Standard"

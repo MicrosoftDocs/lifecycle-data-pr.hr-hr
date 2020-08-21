@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows ugrađen 8.1 industrija
-  description: Windows Ugrađen 8.1 Industrija slijedi Fiksni životno ciklus politika.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 06229993442080153b64e34bc290b48b6fc1e05d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Industrija sustava Windows Embedded 8,1
+  description: Windows Embedded 8,1 Industry slijedi pravilnik o nepromjenjivom životnom ciklusu.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850593"
-name: Windows ugrađen 8.1 industrija
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906907"
+name: Industrija sustava Windows Embedded 8,1
 summary: >+
-  Windows Ugrađen 8.1 Industrija slijedi [Fiksni](/lifecycle/policies/fixed) životno ciklus politika.
+  Windows Embedded 8,1 Industry slijedi pravilnik o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: Enterprise, Pro
+  To se odnosi na sljedeća izdanja: Enterprise, Pro, sideloading
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Najčešća pitanja o životnom ciklusu - Proizvodi za Windows](https://support.microsoft.co/help/18581)\n* [Najčešća pitanja o sustavu Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Pro"
+content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu – proizvodi sustava Windows](https://support.microsoft.co/help/18581)\n* [Najčešća pitanja o sustavu Windows Embedded 8,1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Pro\n* Opcijama"
