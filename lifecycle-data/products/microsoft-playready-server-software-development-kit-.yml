@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Alat za razvoj softvera za Microsoft PlayReady Server '
+  description: Alat za razvoj softverskih poslužitelja za Microsoft PlayReady slijedi pravilnik o nepromjenjivim životnim ciklusom.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "908013"
+name: 'Alat za razvoj softvera za Microsoft PlayReady Server '
+summary: >+
+  Alat za razvoj softverskih poslužitelja za Microsoft PlayReady slijedi pravilnik o [nepromjenjivim](/lifecycle/policies/fixed) životnim ciklusom.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/15/2009
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 07/15/2009
+  endDate: 10/14/2014
+content: ''
