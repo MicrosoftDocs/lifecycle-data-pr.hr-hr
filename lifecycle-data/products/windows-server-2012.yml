@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012 slijedi fiksni pravilnik životnog ciklusa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows Server 2012 slijedi Fiksni pravilnik o životnom ciklusu.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c6ef77a2f2ee2a4579f3258e26b189e3600db600
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850586"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906944"
 name: Windows Server 2012
-summary: >+
-  Windows Server 2012 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
-
-
-  To se odnosi na sljedeća izdanja: Datacenter, Essentials, za Embedded Systems, Foundation, Standard
-
+summary: "Windows Server 2012 slijedi [Fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu. \n\nTo se odnosi na sljedeća izdanja: Datacenter, Essentials, External Connector, for Embedded Systems, Foundation, Standard\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-overview)\n* [Informacije o proizvodu](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Osnovna i proširena podrška za ovaj proizvod produžena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa. Windows Server Essentials objavljen 2. siječnja 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Essentials\n* za Embedded Systems\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-overview)\n* [Informacije o proizvodu](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Osnovna i proširena podrška za ovaj proizvod produžena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa. Windows Server Essentials objavljen 2. siječnja 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Essentials\n* Vanjski poveznik\n* za Embedded Systems\n* Foundation\n* Standard"
