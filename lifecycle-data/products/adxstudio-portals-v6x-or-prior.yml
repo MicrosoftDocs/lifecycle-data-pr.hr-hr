@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio portali V6. x ili Prior
+  description: Adxstudio portali V6. x ili Prior slijedi pravilo o nepromjenjivom životnom ciklusu.
+  ms.date: 08/28/2020
+  ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924336"
+name: Adxstudio portali V6. x ili Prior
+summary: >+
+  Adxstudio portali V6. x ili Prior slijedi pravilo o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/29/2015
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu – akvizicije](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Podrška za ovaj proizvod podliježe odredbama njegove nabave i završen je."
