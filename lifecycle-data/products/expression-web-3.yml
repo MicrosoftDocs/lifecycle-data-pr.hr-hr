@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Izraz 3
-  description: Izraz 3 slijedi pravilnik o fiksnom životnom ciklusu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Expression 3 slijedi pravilnik o popravnom životnom ciklusu.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "808118"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930742"
 name: Izraz 3
 summary: >+
-  Izraz 3 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Expression 3 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: Dizajn, Koder, Studio, Web
+  To se odnosi na sljedeća izdanja: Design, Encoder, studio, web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Datum početka izraza dizajn 3 je studeni 19, 2009. \n\n## <a name=\"editions\"></a>Izdanja \n* Dizajn\n* Koder\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> Datum početka za Expression Design 3 jest Studeni 19, 2009. \n\n## <a name=\"editions\"></a>Izdanja \n* Dizajn\n* Encoder\n* Studio\n* Web"
