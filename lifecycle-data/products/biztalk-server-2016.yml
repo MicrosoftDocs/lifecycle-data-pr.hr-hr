@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2016
-  description: BizTalk Server 2016 slijedi pravilnik fiksnog životnog ciklusa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0cce3539c4760d2472891e36f8edfa267a44c7ac
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: BizTalk Server 2016 slijedi pravilnik o popravnom životnom ciklusu.
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 1442cb807ade39555954dc0f2fba82434027cb2c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850114"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932148"
 name: BizTalk Server 2016
 summary: >+
-  BizTalk Server 2016 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  BizTalk Server 2016 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Branch, Developer, Enterprise, Standard
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Grana\n* Autor\n* Enterprise\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Branch\n* Developer\n* Enterprise\n* Standard"
