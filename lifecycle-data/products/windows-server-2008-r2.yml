@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 slijedi fiksni pravilnik životnog ciklusa.
-  ms.date: 08/27/2020
-  ms.openlocfilehash: 531fe1d11032fd9fb6ae5fa6e4db46d01b7f63e4
-  ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
+  ms.date: 09/01/2020
+  keywords: Datacenter,Enterprise,HPC Edition,Itanium-Based Systems,Standard,Web
+  ms.openlocfilehash: d11313c6b34939376f603efe48a886993b46d8ef
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 08/27/2020
-  ms.locfileid: "922906"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939659"
 name: Windows Server 2008 R2
 summary: "Windows Server 2008 R2 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.\n\nTo se odnosi na sljedeća izdanja: Datacenter, Enterprise, HPC Edition, Sustavi s procesorima Itanium, Standard, Web\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. \n"
 products:
