@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sastanak sustava Office Live
-  description: Office Live Meeting slijedi modernu politiku životnog ciklusa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c4b0ff8ddce1b4b699aae7631879845eed849bf4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Office Live Meeting
+  description: Office Live Meeting slijedi suvremeni pravilnik o životnom ciklusu.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "808592"
-name: Sastanak sustava Office Live
-summary: "Office Live Meeting slijedi [modernu](/lifecycle/policies/modern) politiku životnog ciklusa.\n\nTo se odnosi na sljedeća izdanja: Standardna\n\n> [!IMPORTANT]\n> Podrška za ovu uslugu je završena. Pogledajte smjernice za migraciju u nastavku. \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928892"
+name: Office Live Meeting
+summary: "Office Live Meeting slijedi [suvremeni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Standard\n\n> [!IMPORTANT]\n> Podrška za ovaj servis je završena. Pogledajte smjernice za migraciju u nastavku. \n"
 products:
 - office
 policyType: modern-online
@@ -21,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 04/10/2009
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"
