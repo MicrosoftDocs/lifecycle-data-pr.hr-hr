@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Poslužitelj za pohranu sustava Windows 2003 R2
+  description: Windows Server za pohranu 2003 R2 slijedi pravilo o nepromjenjivom životnom ciklusu.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
+  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
+  ms.translationtype: MT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940796"
+name: Poslužitelj za pohranu sustava Windows 2003 R2
+summary: "Windows Server za pohranu 2003 R2 slijedi pravilo o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Standard\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena.\nOvaj je proizvod isporučen sa sustavom Windows Server 2003 Service Pack 1. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/05/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 03/05/2006
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"
