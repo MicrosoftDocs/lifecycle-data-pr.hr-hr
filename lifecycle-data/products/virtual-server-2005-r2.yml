@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Virtualni poslužitelj 2005 R2
-  description: Virtualni poslužitelj 2005 R2 slijedi pravilnik fiksnog životnog ciklusa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Virtualni poslužitelj 2005 R2 slijedi pravilo o nepromjenjivom životnom ciklusu.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "808571"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937920"
 name: Virtualni poslužitelj 2005 R2
-summary: "Virtualni poslužitelj 2005 R2 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.\n\nTo se odnosi na sljedeća izdanja: Enterprise, Standard\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
+summary: "Virtualni poslužitelj 2005 R2 slijedi pravilo o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Enterprise, Standard\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standard"

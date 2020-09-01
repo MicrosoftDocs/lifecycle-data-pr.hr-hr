@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2010
-  description: Visio 2010 slijedi pravilnik o fiksnom životnom ciklusu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: bf96814151cea0f8a6d28a13d6b30e3de6c379a0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Visio 2010 slijedi pravilnik o popravnom životnom ciklusu.
+  ms.date: 09/01/2020
+  keywords: Premium,Professional,Standard
+  ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "808205"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937846"
 name: Visio 2010
 summary: >+
-  Visio 2010 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Visio 2010 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: Premium, Professional, Standard
+  To se odnosi na sljedeća izdanja: Premium, Professional, standard
 
 products:
 - office
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/DeployOffice/office-2010-end-support-roadmap)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Nagrada\n* Profesionalni\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/DeployOffice/office-2010-end-support-roadmap)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Premium\n* Professional\n* Standard"
