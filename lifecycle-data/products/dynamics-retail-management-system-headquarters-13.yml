@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sustav upravljanja maloprodajom sustava Dynamics Retail 1.3
-  description: Dynamics Retail Management System 1.3 slijedi pravilnik o fiksnom životnom ciklusu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Dynamics maloprodajni sustav za upravljanje 1,3
+  description: Dynamics maloprodajni sustav za upravljanje 1,3 slijedi pravilo o nepromjenjivom životnom ciklusu.
+  ms.date: 09/01/2020
+  keywords: Headquarters,Store Operations
+  ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "808370"
-name: Sustav upravljanja maloprodajom sustava Dynamics Retail 1.3
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931687"
+name: Dynamics maloprodajni sustav za upravljanje 1,3
 summary: >+
-  Dynamics Retail Management System 1.3 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Dynamics maloprodajni sustav za upravljanje 1,3 slijedi pravilo o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: Sjedište, Store Operations
+  To se odnosi na sljedeća izdanja: Sjedište, operacije spremišta
 
 products:
 - dynamics
