@@ -2,13 +2,14 @@
 metadata:
   title: Izraz
   description: Izraz slijedi pravilnik o nepromjenjivom životnom ciklusu.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893379"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936218"
 name: Izraz
 summary: "Izraz slijedi pravilnik o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
 products:
