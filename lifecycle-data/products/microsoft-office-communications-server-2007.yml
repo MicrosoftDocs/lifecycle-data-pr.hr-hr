@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communications Server 2007
-  description: Microsoft Office Communications Server 2007 slijedi pravilnik fiksnog životnog ciklusa.
+  description: Microsoft Office Communications Server 2007 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 80fa4146ce4ae0ec8055a0915fa75ef64551f9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809036"
 name: Microsoft Office Communications Server 2007
 summary: >+
-  Microsoft Office Communications Server 2007 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Office Communications Server 2007 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Enterprise, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/27/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standard"

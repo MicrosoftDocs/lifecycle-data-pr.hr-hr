@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows HPC Server 2008
-  description: Windows HPC Server 2008 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Windows HPC Server 2008 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808547"
 name: Windows HPC Server 2008
 summary: >
-  Windows HPC Server 2008 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows HPC Server 2008 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Standardno, bez značajke Hyper-V
+  To se odnosi na sljedeća izdanja: Standard, bez Hyper-V
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni\n* bez značajke Hyper-V"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standard\n* bez značajke Hyper-V"

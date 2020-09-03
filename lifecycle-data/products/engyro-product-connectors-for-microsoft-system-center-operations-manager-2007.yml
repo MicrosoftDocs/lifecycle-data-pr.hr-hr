@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Engyro stvarajući Povezivanje za Microsoft Sistem Centriranje Operacije Voditelj 2007
-  description: Engyro product connectors za Microsoft System Center Operations Manager 2007 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Engyro Product Connectors za Microsoft System Center Operations Manager 2007
+  description: Engyro Product Connectors za Microsoft System Center Operations Manager 2007 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809056"
-name: Engyro stvarajući Povezivanje za Microsoft Sistem Centriranje Operacije Voditelj 2007
+name: Engyro Product Connectors za Microsoft System Center Operations Manager 2007
 summary: >
-  Engyro product connectors za Microsoft System Center Operations Manager 2007 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Engyro Product Connectors za Microsoft System Center Operations Manager 2007 slijede [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"

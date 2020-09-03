@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2003
-  description: Visio 2003 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Visio 2003 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: ea6181dd79935ed4bf34f535bdeb83fedb175592
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808049"
 name: Visio 2003
 summary: >+
-  Visio 2003 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Visio 2003 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Professional, Standard
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Profesionalni\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Professional\n* Standard"

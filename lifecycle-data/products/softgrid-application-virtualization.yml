@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Mekegrid Aplikacija Virtualizacija
-  description: SoftGrid Aplikacija Virtualizacija slijedi Fiksni životnog ciklusa politike.
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808054"
-name: Mekegrid Aplikacija Virtualizacija
+name: SoftGrid Application Virtualization
 summary: >
-  SoftGrid Aplikacija Virtualizacija slijedi [Fiksni](/lifecycle/policies/fixed) životnog ciklusa politike.
+  SoftGrid Application Virtualization slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: 4.1 za stolna računala, 4.2 za stolna računala, za Terminal Services 4.1
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Izdanja \n* 4.1 za stolna računala\n* 4.2 za stolna računala\n* za Terminal Services 4.1"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Izdanja \n* 4.1 za stolna računala\n* 4.2 za stolna računala\n* za Terminal Services 4.1"

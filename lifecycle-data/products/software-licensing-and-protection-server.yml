@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Poslužitelj za licenciranje i zaštitu softvera
-  description: Poslužitelj za licenciranje i zaštitu softvera slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Poslužitelj za licenciranje i zaštitu softvera slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808070"
 name: Poslužitelj za licenciranje i zaštitu softvera
 summary: >
-  Poslužitelj za licenciranje i zaštitu softvera slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Poslužitelj za licenciranje i zaštitu softvera slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Enterprise, Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Zbog divestiture softver dozvoljavajući i zaštićivanje Poslužitelj (SLPS), Microsoft podržanih od SLPS do Rujan 24, 2009.
+  > Zbog odstranjenja poslužitelja za licenciranje i zaštitu softvera (SLPS), Microsoft je podržavao SLPS do 24. rujna 2009.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Poslužitelj za licenciranje i zaštitu softvera (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Poslužitelj za licenciranje i zaštitu softvera (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standard"
