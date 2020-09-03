@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows ugrađen ručni 6,5
-  description: Windows uloženi ručni 6.5 slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Windows Embedded Handheld 6.5
+  description: Windows Embedded Handheld 6.5 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850591"
-name: Windows ugrađen ručni 6,5
+name: Windows Embedded Handheld 6.5
 summary: >
-  Windows uloženi ručni 6.5 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows Embedded Handheld 6.5 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/17/2010
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Windows za IoT dokumentaciju](/windows/iot-core/)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Windows for IoT - dokumentacija](/windows/iot-core/)"

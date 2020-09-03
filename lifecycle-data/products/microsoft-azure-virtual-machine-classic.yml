@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Azure virtualni stroj (klasični) (potvrdite azure prije objavljivanja - nema datuma završetka na datum rešetke)
-  description: Microsoft Azure virtualni stroj (klasični) (potvrdite azure prije objavljivanja - nema datuma završetka na datum rešetke) slijedi moderni pravilnik životnog ciklusa.
+  title: Microsoft Azure Virtual Machine (klasični) (potvrdite s Azure prije objavljivanja - nema datuma završetka na kalendaru)
+  description: Microsoft Azure Virtual Machine (klasični) (potvrdite s Azure prije objavljivanja - nema datuma završetka na kalendaru) slijedi moderna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850454"
-name: Microsoft Azure virtualni stroj (klasični) (potvrdite azure prije objavljivanja - nema datuma završetka na datum rešetke)
+name: Microsoft Azure Virtual Machine (klasični) (potvrdite s Azure prije objavljivanja - nema datuma završetka na kalendaru)
 summary: >+
-  Microsoft Azure virtualni stroj (klasični) (potvrdite azure prije objavljivanja - nema datuma završetka na datum rešetke) slijedi [moderni](/lifecycle/policies/modern) pravilnik životnog ciklusa.
+  Microsoft Azure Virtual Machine (klasični) (potvrdite s Azure prije objavljivanja - nema datuma završetka na kalendaru) slijedi [moderni](/lifecycle/policies/modern) pravilnik životnog ciklusa.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 06/07/2012
   endDate: 03/01/2023
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/azure/virtual-machines/classic-vm-deprecation)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/azure/virtual-machines/classic-vm-deprecation)"

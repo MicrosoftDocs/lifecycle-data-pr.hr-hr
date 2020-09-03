@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows ugrađen 8 Industrija
-  description: Windows Ugrađen 8 Industrija slijedi Fiksni životno ciklus pravila.
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850156"
-name: Windows ugrađen 8 Industrija
+name: Windows Embedded 8 Industry
 summary: >
-  Windows Ugrađen 8 Industrija slijedi [Fiksni](/lifecycle/policies/fixed) životno ciklus pravila.
+  Windows Embedded 8 Industry slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Enterprise, Pro
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Korisnici moraju migrirati u Windows 8.1 da bi ostali podržani.
+  > Kupci moraju migrirati u Windows 8.1 da bi zadržali podršku.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Migriranje navođenja](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Najčešća pitanja o životnom ciklusu - Proizvodi za Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Pro"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Pro"

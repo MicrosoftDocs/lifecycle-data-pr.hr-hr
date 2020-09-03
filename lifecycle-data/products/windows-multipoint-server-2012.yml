@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows MultiPoint Server 2012
-  description: Windows MultiPoint Server 2012 slijedi pravilnik fiksnog životnog ciklusa.
+  description: Windows MultiPoint Server 2012 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 680c62e4b7aa1f0393f32386deb68f9c976b7c9b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850362"
 name: Windows MultiPoint Server 2012
 summary: >+
-  Windows MultiPoint Server 2012 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Windows MultiPoint Server 2012 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Premium, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Osnovna i proširena podrška za ovaj proizvod proširena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa.\n\n## <a name=\"editions\"></a>Izdanja \n* Nagrada\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Osnovna i proširena podrška za ovaj proizvod produžena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa.\n\n## <a name=\"editions\"></a>Izdanja \n* Premium\n* Standard"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 za terećenju i operacije
-  description: Dynamics 365 za terećenju i operacije slijedi modernu pravilnik o životnom ciklusu.
+  title: Dynamics 365 for Finance and Operations
+  description: Dynamics 365 for Finance and Operations slijedi moderni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850400"
-name: Dynamics 365 za terećenju i operacije
+name: Dynamics 365 for Finance and Operations
 summary: >+
-  Dynamics 365 za terećenju i operacije slijedi [modernu](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Dynamics 365 for Finance and Operations slijedi [moderni](/lifecycle/policies/modern) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Enterprise
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Plan sustava Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Informacije o servisiranju](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Sistemski preduvjeti](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise"
+content: "\n## <a name=\"links\"></a>Veze \n* [Plan sustava Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Informacije o servisiranju](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Sistemski preduvjeti](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise"

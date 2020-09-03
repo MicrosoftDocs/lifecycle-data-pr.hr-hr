@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Mobile, objavljen u kolovozu 2016.
-  description: Windows 10 Mobile, objavljen u kolovozu 2016 slijedi pravilnik fiksnog životnog ciklusa.
+  description: Windows 10 Mobile, objavljen u kolovozu 2016., slijedi pravilnik fiksnog životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b9e0a074c7472ba059b79bac77a05a001e76d8c3
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850215"
 name: Windows 10 Mobile, objavljen u kolovozu 2016.
 summary: >
-  Windows 10 Mobile, objavljen u kolovozu 2016 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Windows 10 Mobile, objavljen u kolovozu 2016., slijedi pravilnik [fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
 
 
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/16/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Najčešća pitanja o životnom ciklusu OS uređaja](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile završio podršku prosinca 10, 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Najčešće postavljana pitanja o životnom ciklusu OS uređaja](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile - podrška je završena 10. prosinca 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
