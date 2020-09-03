@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 7.8
-  description: Windows Phone 7.8 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Windows Phone 7.8 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850590"
 name: Windows Phone 7.8
 summary: >
-  Windows Phone 7.8 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows Phone 7.8 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft će ažuriranja učiniti dostupnima za operacijski sustav na telefonu, uključujući sigurnosna ažuriranja, u razdoblju od 18 mjeseci nakon datuma početka životnog ciklusa. Distribucijom ažuriranja može upravljati mobilni operater ili proizvođač telefona od kojeg ste kupili telefon. Dostupnost ažuriranja razlikovat će se i ovisno o zemlji, regiji i mogućnostima hardvera."
+content: "\n\n> [!NOTE]\n> Microsoft će ažuriranja učiniti dostupnima za operacijski sustav na vašem telefonu, uključujući sigurnosna ažuriranja, za period od 18 mjeseci nakon datuma početka životnog ciklusa. Distribucijom ažuriranja može upravljati mobilni operater ili proizvođač telefona od kojeg ste kupili telefon. Dostupnost ažuriranja razlikovat će se i ovisno o mogućnostima države, regije i hardvera."

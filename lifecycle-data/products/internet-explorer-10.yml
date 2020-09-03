@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 10
-  description: Internet Explorer 10 slijedi pravilnik o životnom ciklusu komponente.
+  description: Internet Explorer 10 slijedi pravila životnog ciklusa komponenti.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850282"
 name: Internet Explorer 10
 summary: >+
-  Internet Explorer 10 slijedi pravilnik o životnom ciklusu [komponente.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 10 slijedi pravila životnog ciklusa [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Najčešća pitanja o pravilniku o životnom ciklusu preglednika Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Popis podržanih operacijskih sustava i kombinacija preglednika potražite u najčešćim pitanjima o životnom ciklusu preglednika Internet Explorer."
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Pitanja o pravilima životnog ciklusa preglednika Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Posjetite česta pitanja o životnom ciklusu preglednika Internet Explorer za popis podržanih operacijskih sustava i kombinacija preglednika."

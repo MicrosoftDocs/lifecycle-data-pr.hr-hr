@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serija Azure StorSimple 8000
-  description: Serija Azure StorSimple 8000 slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Azure StorSimple 8000 Series
+  description: Azure StorSimple 8000 Series slijedi fiksni pravinik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850136"
-name: Serija Azure StorSimple 8000
+name: Azure StorSimple 8000 Series
 summary: >+
-  Serija Azure StorSimple 8000 slijedi pravilnik [o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Azure StorSimple 8000 Series slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Podrška za StorSimple rješenje](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Smjernice za migracije](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Podrška za Azure StorSimple 8000 Series proširena je kao što je prikazano da bi se klijentima pružila standardna vremenska traka životnog ciklusa. Proširena podrška uključuje samo hardversku zamjenu i sigurnosna ažuriranja."
+content: "\n## <a name=\"links\"></a>Veze \n* [Podrška za StorSimple solution](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Smjernice za migracije](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Podrška za Azure StorSimple 8000 Series produljena je kako je prikazano kako bi se korisnicima osiguralo standardno trajanje životnog ciklusa. Produljena podrška obuhvaća samo zamjenu hardvera i sigurnosna ažuriranja."

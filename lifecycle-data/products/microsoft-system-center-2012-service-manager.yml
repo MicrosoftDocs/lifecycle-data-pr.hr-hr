@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravitelj servisa Microsoft System Center 2012
-  description: Upravitelj servisa Microsoft System Center 2012 slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Microsoft System Center 2012 Service Manager
+  description: Microsoft System Center 2012 Service Manager slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 98b376f557f50d8ecdb538898e2526fa207c12bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850202"
-name: Upravitelj servisa Microsoft System Center 2012
+name: Microsoft System Center 2012 Service Manager
 summary: >+
-  Upravitelj servisa Microsoft System Center 2012 slijedi pravilnik [o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft System Center 2012 Service Manager slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n* [Resursi centra sustava](https://www.microsoft.com/system-center/resources)\n* [Dokumentacija centra sustava](/system-center/#pivot=components&panel=components-all)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n* [System Center Resources](https://www.microsoft.com/system-center/resources)\n* [System Center Documentation](/system-center/#pivot=components&panel=components-all)"
