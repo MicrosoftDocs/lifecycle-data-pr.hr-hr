@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront sigurnost za Exchange Server
-  description: Forefront sigurnost za Exchange Server slijedi pravilo o nepromjenjivom životnom ciklusu.
+  title: Forefront Security za Exchange Server
+  description: Forefront Security za Exchange Server slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 08/12/2020
   ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893712"
-name: Forefront sigurnost za Exchange Server
+name: Forefront Security za Exchange Server
 summary: >
-  Forefront sigurnost za Exchange Server slijedi pravilo o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.
+  Forefront Security za Exchange Server slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 
   > [!IMPORTANT]
 
-  > Promijenjen je putokaz za sigurnosne proizvode u sklopu branda Forefront. Ovaj je proizvod prekinut od 31. prosinca, 2015.
+  > Plan za sigurnosne proizvode pod robnom markom Forefront se promijenio. Ovaj proizvod je povučen od 31. prosinca 2015.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Veze \n* [Upute za migraciju](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://www.microsoft.com/security/business/explore/cybersecurity)"

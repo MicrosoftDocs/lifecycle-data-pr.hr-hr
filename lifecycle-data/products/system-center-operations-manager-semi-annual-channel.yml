@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Operations Manager Polugodišnji kanal
-  description: System Center Operations Manager PoluGodišnji kanal slijedi modernu politiku životnog ciklusa.
+  title: System Center Operations Manager - polugodišnji kanal
+  description: System Center Operations Manager - polugodišnji kanal slijedi moderni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: e1cc9be8f8d34eb92823ef4a44548be49dbe2476
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868323"
-name: System Center Operations Manager Polugodišnji kanal
+name: System Center Operations Manager - polugodišnji kanal
 summary: >
-  System Center Operations Manager PoluGodišnji kanal slijedi [modernu](/lifecycle/policies/modern) politiku životnog ciklusa.
+  System Center Operations Manager - polugodišnji kanal slijedi [moderni](/lifecycle/policies/modern) pravilnik životnog ciklusa.
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

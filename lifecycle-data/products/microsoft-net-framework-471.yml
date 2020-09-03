@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e57e809b4800ee789f7ae748bf0dd67d28966f91
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868291"
 name: Microsoft .NET Framework 4.7.1
 summary: >+
-  Microsoft .NET Framework 4.7.1 slijedi pravilnik o životnom ciklusu [komponente.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft .NET Framework 4.7.1 slijedi pravilnik o životnom ciklusu [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o proizvodu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [Najčešća pitanja o životnom ciklusu .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework komponenta je operacijskog sustava Windows. Komponente dobivaju istu podršku kao i njihov nadređeni proizvod ili platforma."
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [Često postavljana pitanja o životnom ciklusu .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework je komponenta operacijskog sustava Windows. Komponente dobivaju istu podršku kao i nadređeni proizvod ili platforma."

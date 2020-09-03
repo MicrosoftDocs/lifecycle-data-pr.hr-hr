@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Silverlight 5
-  description: Silverlight 5 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Silverlight 5 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868290"
 name: Silverlight 5
 summary: >+
-  Silverlight 5 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Silverlight 5 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Silverlight 5 će podržavati preglednike navedene ovdje do 10/12/2021 ili kroz životni ciklus temeljnih preglednika, ovisno o tome što je kraće.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight Kraj podrške](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft će prije završetka podrške za alate dostaviti obavijest od najmanje 12 mjeseci."
+content: "\n## <a name=\"links\"></a>Veze \n* [Silverlight 5 podržavat će preglednike navedene na ovoj stranici do 12.10.2021. ili do kraja životnog ciklusa obuhvaćenih preglednika, ovisno o tome koje je razdoblje kraće.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Završetak podrške za Silverlight](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft će ukidanje podrške za alate najaviti najmanje 12 mjeseci unaprijed."

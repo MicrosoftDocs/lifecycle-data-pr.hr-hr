@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftov sistemski centar za mobilne uređaje sustava 2008
-  description: Upravitelj mobilnih uređaja sustava Microsoft System Center 2008 slijedi pravilnik o ispravnom životnom ciklusu.
+  title: Microsoft System Center Mobile Device Manager 2008
+  description: Microsoft System Center Mobile Device Manager 2008 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906263"
-name: Microsoftov sistemski centar za mobilne uređaje sustava 2008
+name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Upravitelj mobilnih uređaja sustava Microsoft System Center 2008 slijedi pravilnik o [ispravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft System Center Mobile Device Manager 2008 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: sve primjenjivo, wSQL
+  To se odnosi na sljedeća izdanja: sva primjenjiva, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Veze \n* [Upute za migraciju](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Pravilnik o servisnom paketu](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Sve primjenjivo\n* wSQL"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Sve primjenjivo\n* wSQL"

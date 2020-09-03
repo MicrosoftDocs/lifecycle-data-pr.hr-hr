@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administrator sustava Operations Center 2007 R2
-  description: Administrator sustava Operations Center 2007 R2 slijedi pravilnik o ispravnom životnom ciklusu.
+  title: System Center Operations Manager 2007 R2
+  description: System Center Operations Manager 2007 R2 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 08/12/2020
   ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892491"
-name: Administrator sustava Operations Center 2007 R2
-summary: "Administrator sustava Operations Center 2007 R2 slijedi pravilnik o [ispravnom](/lifecycle/policies/fixed) životnom ciklusu.\n\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte upute za migraciju u nastavku. \n"
+name: System Center Operations Manager 2007 R2
+summary: "System Center Operations Manager 2007 R2 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.\n\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Veze \n* [Upute za migraciju](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio .NET 2003
-  description: Microsoft Visual Studio .NET 2003 slijedi pravilnik fiksnog životnog ciklusa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3480529da4e74d11dd7fda7e1b052e5adc7e82f1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  description: Microsoft Visual Studio .NET 2003 slijedi fiksni pravilnik o životnom ciklusu.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: bd77a04d5e2119962483b8cdc8edb48ab1befd4f
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "808067"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907976"
 name: Microsoft Visual Studio .NET 2003
 summary: >+
-  Microsoft Visual Studio .NET 2003 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Visual Studio .NET 2003 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: Enterprise Architect, Enterprise Developer, Professional
+  To se odnosi na sljedeća izdanja: Enterprise Architect, Enterprise Developer, J#, Professional
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Arhitekt poduzeća\n* Enterprise Developer\n* Profesionalni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professional"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Orchestrator Polu Godišnji kanal
-  description: Centar sustava Orchestrator PoluGodišnji kanal slijedi moderni životni ciklus politike.
+  title: Orkestrator sistemskog centra polugodišnji kanal
+  description: Orkestrator sistemskog centra polugodišnji kanal slijedi moderni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868319"
-name: System Center Orchestrator Polu Godišnji kanal
+name: Orkestrator sistemskog centra polugodišnji kanal
 summary: >
-  Centar sustava Orchestrator PoluGodišnji kanal slijedi [moderni](/lifecycle/policies/modern) životni ciklus politike.
+  Orkestrator sistemskog centra polugodišnji kanal slijedi [moderni](/lifecycle/policies/modern) pravilnik životnog ciklusa.
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"
