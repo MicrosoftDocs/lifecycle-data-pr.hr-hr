@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Essential Business Server 2008
-  description: Windows Essential Business Server 2008 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Windows Essential Business Server 2008 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/30/2020
   ms.openlocfilehash: eec6a2b5b250aa779f288b4fa18e5c3330fe9f28
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878997"
 name: Windows Essential Business Server 2008
 summary: >
-  Windows Essential Business Server 2008 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows Essential Business Server 2008 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 
   > [!IMPORTANT]
 
-  > Datum podrške za ovaj paket proizvoda određuje se odgovarajućim životcima pojedinačnog sastavnog dijela. Pregledajte životni ciklus pojedinačnog sastavnog dijela kako biste odredili njegovu duljinu podrške.
+  > Datum podrške za ovaj paket proizvoda određuje se odgovarajućim životnim ciklusima pojedinačne komponente. Pregledajte životni ciklus pojedinačne komponente kako biste odredili trajanje njegove podrške.
 products:
 - windows
 policyType: fixed
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 12/12/2008
   endDate: 02/13/2020
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://aka.ms/AA1ovn4)\n* [Informacije o proizvodu](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://aka.ms/AA1ovn4)\n* [Informacije o proizvodu](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"

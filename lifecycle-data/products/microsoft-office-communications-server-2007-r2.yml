@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communications Server 2007 R2
-  description: Microsoft Office Communications Server 2007 R2 slijedi pravilo o nepromjenjivom životnom ciklusu.
+  description: Microsoft Office Communications Server 2007 R2 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 08/07/2020
   ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
   ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/07/2020
   ms.locfileid: "885821"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 slijedi pravilo o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: sve primjenjivo, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte upute za migraciju. \n"
+summary: "Microsoft Office Communications Server 2007 R2 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Sve primjenjivo, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Veze \n* [Upute za migraciju](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP pristupnik izdan u 9/28/2009.\n\n## <a name=\"editions\"></a>Izdanja \n* Sve primjenjivo\n* Enterprise\n* XMPP pristupnik"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway objavljen 28/9/2009.\n\n## <a name=\"editions\"></a>Izdanja \n* Sve primjenjivo\n* Enterprise\n* XMPP Gateway"
