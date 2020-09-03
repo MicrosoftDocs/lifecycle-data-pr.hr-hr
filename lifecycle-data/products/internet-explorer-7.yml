@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 7
-  description: Internet Explorer 7 slijedi pravilnik o životnom ciklusu komponenti.
+  description: Internet Explorer 7 slijedi pravilnik životnog ciklusa komponenti.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808774"
 name: Internet Explorer 7
 summary: >+
-  Internet Explorer 7 slijedi pravilnik o životnom ciklusu [komponenti.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 7 slijedi pravilnik životnog ciklusa [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://www.microsoft.com/itpro/microsoft-edge)\n* [Najčešća pitanja o pravilniku o životnom ciklusu preglednika Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Počevši od siječnja 12, 2016, samo najnovija verzija preglednika Internet Explorer dostupna za podržani operacijski sustav primit će tehničku podršku i sigurnosna ažuriranja."
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pitanja o pravilima životnog ciklusa preglednika Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Od 12. siječnja 2016., samo najnovija dostupna verzija programa Internet Explorer za podržani operacijski sustav prima tehničku podršku i sigurnosna ažuriranja."

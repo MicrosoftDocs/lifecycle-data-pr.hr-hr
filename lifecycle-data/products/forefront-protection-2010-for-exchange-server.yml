@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zaštita sustava Forefront 2010 za Exchange Server
-  description: Zaštita sustava Forefront 2010 za Exchange Server slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Forefront Protection 2010 for Exchange Server
+  description: Forefront Protection 2010 for Exchange Server slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9565d051119e9367e55a37ab1aeb269fe0fb3ed7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808795"
-name: Zaštita sustava Forefront 2010 za Exchange Server
-summary: "Zaštita sustava Forefront 2010 za Exchange Server slijedi pravilnik [o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.\n\n\n> [!IMPORTANT]\n> Plan za sigurnosne proizvode u okviru robne marke Forefront promijenio se. Ovaj proizvod je ukinut od 31.12.2015. Pogledajte smjernice za migraciju. \n"
+name: Forefront Protection 2010 for Exchange Server
+summary: "Forefront Protection 2010 for Exchange Server slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.\n\n\n> [!IMPORTANT]\n> Plan za sigurnosne proizvode pod robnom markom Forefront se promijenio. Ovaj proizvod je povučen od 31. prosinca 2015. Molimo pogledajte smjernice za migraciju. \n"
 products:
 - office
 policyType: fixed
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"

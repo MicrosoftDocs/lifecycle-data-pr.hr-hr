@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2010
-  description: SharePoint Foundation 2010 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: SharePoint Foundation 2010 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808057"
 name: SharePoint Foundation 2010
 summary: >+
-  SharePoint Foundation 2010 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  SharePoint Foundation 2010 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Proširenje podrške](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Datum završetka podrške ovog proizvoda produljen je od 13."
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Proširenje podrške](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> datum obustave podrške za ovaj proizvod pomaknut je s 13. listopada 2020. na 13. travnja 2021."

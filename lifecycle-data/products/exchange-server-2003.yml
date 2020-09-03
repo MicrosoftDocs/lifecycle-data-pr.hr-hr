@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2003
-  description: Exchange Server 2003 slijedi pravilnik fiksnog životnog ciklusa.
+  description: Exchange Server 2003 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a2858bb27edff6224fcdc816c1c16c11193d7ed
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808125"
 name: Exchange Server 2003
 summary: >+
-  Exchange Server 2003 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Exchange Server 2003 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Enterprise, Standard
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2003
   endDate: 05/25/2005
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standard"

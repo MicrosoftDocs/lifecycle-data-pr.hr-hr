@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Sustavu Forefront prijetnja upravljanja pristupnik web protection services
-  description: Microsoft Forefront prijetnja upravljanja pristupnik web protection services slijedi pravilnik fiksni životni ciklus.
+  title: Microsoft Forefront Threat Management Gateway Web Protection Services
+  description: Microsoft Forefront Threat Management Gateway Web Protection Services slijedi fiksni pravlinik životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808679"
-name: Microsoft Sustavu Forefront prijetnja upravljanja pristupnik web protection services
+name: Microsoft Forefront Threat Management Gateway Web Protection Services
 summary: >+
-  Microsoft Forefront prijetnja upravljanja pristupnik web protection services slijedi [pravilnik fiksni](/lifecycle/policies/fixed) životni ciklus.
+  Microsoft Forefront Threat Management Gateway Web Protection Services slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Plan predvodnik](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Plan za sigurnosne proizvode u okviru robne marke Forefront promijenio se.Ovaj proizvod je ukinut od 31.12.2015."
+content: "\n## <a name=\"links\"></a>Veze \n* [Forefront - plan razvoja](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Plan za sigurnosne proizvode pod robnom markom Forefront se promijenio. Ovaj proizvod je povučen od 31. prosinca 2015.\n\n\n"

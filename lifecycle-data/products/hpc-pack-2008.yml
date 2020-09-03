@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: HPC Pack 2008
-  description: HPC Pack 2008 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: HPC Pack 2008 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 795c6eef31bb7b6a3edcf1d90a193d682c89933a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808786"
 name: HPC Pack 2008
 summary: >
-  HPC Pack 2008 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  HPC Pack 2008 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/29/2008
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)"

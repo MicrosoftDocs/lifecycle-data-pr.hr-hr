@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Information Services 8,0
-  description: Microsoft Internet Information Services 8.0 slijedi pravilnik o životnom ciklusu komponenti.
+  title: Microsoft Internet Information Services 8.0
+  description: Microsoft Internet Information Services 8.0 slijedi pravilnik o životnom ciklusu komponente.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808109"
-name: Microsoft Internet Information Services 8,0
+name: Microsoft Internet Information Services 8.0
 summary: >+
-  Microsoft Internet Information Services 8.0 slijedi pravilnik o životnom ciklusu [komponenti.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft Internet Information Services 8.0 slijedi [pravilnik](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) o životnom ciklusu komponente.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Ovo izdanje je poznato kao komponenta koja slijedi životni ciklus podrške nadređenog glavnog proizvoda, Windows Server 2012 i Windows 8\n\n## <a name=\"links\"></a>Linkovi \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Ovo izdanje je poznato kao komponenta koja slijedi životni ciklus podrške svog nadređenog glavnog proizvoda, Windows Server 2012 i Windows 8\n\n## <a name=\"links\"></a>Veze \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
