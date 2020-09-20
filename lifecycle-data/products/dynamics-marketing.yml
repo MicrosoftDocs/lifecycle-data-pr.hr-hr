@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics Marketing
-  description: Dynamics Marketing slijedi modernu pravilnik o životnom ciklusu.
+  description: Dynamics Marketing slijedi moderni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 641933ec6025a979f820962706701c6034173ccb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850574"
 name: Dynamics Marketing
 summary: >+
-  Dynamics Marketing slijedi [modernu](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Dynamics Marketing slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2014
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Informacije o servisiranju](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"

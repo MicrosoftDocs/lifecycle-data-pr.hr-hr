@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Planner kapaciteta 2007
-  description: Microsoft System Center Planner kapaciteta 2007 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Planer kapaciteta Microsoft System Center 2007
+  description: Microsoft System Center Capacity Planner 2007 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808639"
-name: Microsoft System Center Planner kapaciteta 2007
+name: Planer kapaciteta Microsoft System Center 2007
 summary: >
-  Microsoft System Center Planner kapaciteta 2007 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft System Center Capacity Planner 2007 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 

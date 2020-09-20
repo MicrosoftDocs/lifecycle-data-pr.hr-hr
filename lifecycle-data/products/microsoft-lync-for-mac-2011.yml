@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync za Mac 2011
-  description: Microsoft Lync za Mac 2011 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft Lync za Mac 2011 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808105"
 name: Microsoft Lync za Mac 2011
 summary: >+
-  Microsoft Lync za Mac 2011 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Lync za Mac 2011 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Skype za tvrtke na Macu](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Podrška za Microsoft Lync za Mac 2011 proširena je kao što je prikazano da bi svim korisnicima pružila vremensku crtu prijelaza životnog ciklusa servisa Skype za tvrtke na Macu."
+content: "\n## <a name=\"links\"></a>Veze \n* [Skype za tvrtke na Macu](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Podrška za Microsoft Lync za Mac 2011 produžena je kao što je prikazano kako bi se svim klijentima pružila vremenska crta prijelaza životnog ciklusa na Skype za tvrtke na Macu."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel za Mac 2011
-  description: Excel za Mac 2011 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Excel za Mac 2011 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808803"
 name: Excel za Mac 2011
 summary: >+
-  Excel za Mac 2011 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Excel za Mac 2011 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Osnovna podrška za Microsoft Office za Mac 2011 proširena je kao što je prikazano kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa."
+content: "\n\n> [!NOTE]\n> Osnovna podrška za Microsoft Office za Mac 2011 produljena je kao što je prikazano kako bi se svim korisnicima pružilo standardno vrijeme prijelaza životnog ciklusa."
