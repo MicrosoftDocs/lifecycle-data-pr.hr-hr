@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2010
-  description: Project 2010 slijedi pravilnik o popravnom životnom ciklusu.
+  description: Project 2010 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: bdfc3db9732d902f753335f6457b960248667476
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926561"
 name: Project 2010
 summary: >+
-  Project 2010 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Project 2010 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Professional, Standard
