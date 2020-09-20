@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2010
-  description: Outlook 2010 slijedi pravilnik o popravnom životnom ciklusu.
+  description: Outlook 2010 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: Standard,with Business Contact Manager
   ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928818"
 name: Outlook 2010
 summary: >+
-  Outlook 2010 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Outlook 2010 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: standardno, uz Business Contact Manager
+  To se odnosi na sljedeća izdanja: Standard, s Business Contact Managerom
 
 products:
 - office
