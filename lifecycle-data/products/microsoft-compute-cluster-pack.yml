@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Compute Cluster Pack
-  description: Paket klastera Microsoft Compute slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft Compute Cluster Pack slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808707"
 name: Microsoft Compute Cluster Pack
 summary: >
-  Paket klastera Microsoft Compute slijedi pravilnik [o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Compute Cluster Pack slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/06/2006
   endDate: 04/08/2008
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FSLogix (u predmetu FSLogix)
-  description: FSLogix slijedi modernu politiku životnog ciklusa.
+  title: FSLogix
+  description: FSLogix slijedi moderni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 22f58db08e156a88911a67899e81a054683a0d34
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850300"
-name: FSLogix (u predmetu FSLogix)
+name: FSLogix
 summary: >+
-  FSLogix slijedi [modernu](/lifecycle/policies/modern) politiku životnog ciklusa.
+  FSLogix slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2016
   endDate: 09/01/2019
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Preuzimanje datoteka i uvesti koga u službu FSLogix](/fslogix/install-ht)\n* [Podrška za FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Podrška za ovaj proizvod podliježe uvjetima stjecanja."
+content: "\n## <a name=\"links\"></a>Veze \n* [Preuzmite i instalirajte FSLogix](/fslogix/install-ht)\n* [Podrška za FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Podrška za ovaj proizvod temelji se na uvjetima nabave."

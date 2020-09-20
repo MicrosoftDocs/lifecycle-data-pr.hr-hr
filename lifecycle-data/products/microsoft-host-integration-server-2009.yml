@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Glavnog računala Integracija Server 2009
-  description: Microsoft Glavnog računala Integracija Server 2009 slijedi pravilnik fiksni životni ciklus.
+  title: Microsoft Host Integration Server 2009
+  description: Microsoft Host Integration Server 2009 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 08b1c9c6b318e238412255c9008244cbd13c7605
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808361"
-name: Microsoft Glavnog računala Integracija Server 2009
-summary: "Microsoft Glavnog računala Integracija Server 2009 slijedi [pravilnik fiksni](/lifecycle/policies/fixed) životni ciklus.\n\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. \n"
+name: Microsoft Host Integration Server 2009
+summary: "Microsoft Host Integration Server 2009 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.\n\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)"

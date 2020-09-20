@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualni PC 2007
-  description: Virtual PC 2007 slijedi fiksni životno ciklus politike.
+  title: Virtual PC 2007
+  description: Virtual PC 2007 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4c016f39a3c567e73c1f143299d4cbe59a6f528
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808575"
-name: Virtualni PC 2007
+name: Virtual PC 2007
 summary: >
-  Virtual PC 2007 slijedi [fiksni](/lifecycle/policies/fixed) životno ciklus politike.
+  Virtual PC 2007 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)"

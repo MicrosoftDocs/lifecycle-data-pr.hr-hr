@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows uloženi POSReady 2009
-  description: Windows uloženi POSReady 2009 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Windows Embedded POSReady 2009
+  description: Windows Embedded POSReady 2009 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808555"
-name: Windows uloženi POSReady 2009
+name: Windows Embedded POSReady 2009
 summary: >
-  Windows uloženi POSReady 2009 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Windows Embedded POSReady 2009 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2009
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Kraj podrške za Windows uloženi 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows za IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Kraj podrške za Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows for IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)"

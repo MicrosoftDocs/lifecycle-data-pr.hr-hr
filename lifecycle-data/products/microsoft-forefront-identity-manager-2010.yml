@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Sustavu Forefront Identity Manager 2010
-  description: Microsoft Forefront Identity Manager 2010 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Microsoft Forefront Identity Manager 2010
+  description: Microsoft Forefront Identity Manager 2010 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808683"
-name: Microsoft Sustavu Forefront Identity Manager 2010
+name: Microsoft Forefront Identity Manager 2010
 summary: >+
-  Microsoft Forefront Identity Manager 2010 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Microsoft Forefront Identity Manager 2010 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> Osnovna i proširena podrška za Microsoft Forefront Identity Manager 2010 proširena je kao što je prikazano kako bi se svim klijentima pružila standardna vremenska traka prijelaza životnog ciklusa."
+content: "\n\n> [!NOTE]\n> Osnovna i proširena podrška za Microsoft Forefront Identity Manager 2010 produljena je kao što je prikazano kako bi se svim korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualizacija korisničkog iskustva (UE-V) 2.1
-  description: Virtualizacija korisničkog iskustva (UE-V) 2.1 slijedi pravilnik o fiksnom životnom ciklusu.
+  title: User Experience Virtualization (UE-V) 2.1
+  description: User Experience Virtualization (UE-V) 2.1 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 728fb01eddd4b9436e2b907665d75a7cf1256887
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850216"
-name: Virtualizacija korisničkog iskustva (UE-V) 2.1
+name: User Experience Virtualization (UE-V) 2.1
 summary: >+
-  Virtualizacija korisničkog iskustva (UE-V) 2.1 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  User Experience Virtualization (UE-V) 2.1 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2015
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)"
