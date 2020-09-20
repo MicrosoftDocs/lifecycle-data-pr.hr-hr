@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistem platforme u oblaku
-  description: Sistem platforme u oblaku slijedi pravilnik o ispravnom životnom ciklusu.
+  title: Cloud Platform System
+  description: Cloud Platform System slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932037"
-name: Sistem platforme u oblaku
+name: Cloud Platform System
 summary: >+
-  Sistem platforme u oblaku slijedi pravilnik o [ispravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Cloud Platform System slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Podrška za platformu Cloud Platform proširena je kao što je prikazano radi pružanja svih kupaca standardnom vremenskom tranzicijom u životnom ciklusu.\n> [!NOTE]\n> Standardni sustav Cloud Platform pokrenut u rujnu 18., 2017.\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"
+content: "\n\n> [!NOTE]\n> Osnovna podrška za Cloud Platform System produljena je (kao što je prikazano) da bi se svim korisnicima pružilo standardno vrijeme prijelaza životnog ciklusa.\n> [!NOTE]\n> Cloud Platform System Standard pokrenut je 18. rujna 2017. godine.\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"

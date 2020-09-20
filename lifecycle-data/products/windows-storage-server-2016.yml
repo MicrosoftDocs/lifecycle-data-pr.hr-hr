@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server za pohranu 2016
-  description: Windows Server za pohranu 2016 slijedi pravilnik o ispravnom životnom ciklusu.
+  title: Windows Storage Server 2016
+  description: Windows Storage Server 2016 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938956"
-name: Windows Server za pohranu 2016
+name: Windows Storage Server 2016
 summary: >+
-  Windows Server za pohranu 2016 slijedi pravilnik o [ispravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows Storage Server 2016 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Standard, Workgroup

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Microsoft 365 slijedi suvremeni pravilnik o životnom ciklusu.
+  description: Microsoft 365 slijedi moderni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935959"
 name: Microsoft 365
 summary: >+
-  Microsoft 365 slijedi [suvremeni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Microsoft 365 slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: tvrtke, obrazovanje, Enterprise, Government
+  To se odnosi na sljedeća izdanja: Business, Education, Enterprise, Government
 
 products:
 - office
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Veze \n* [Putokaz za Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Sistemski preduvjeti](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Business\n* Education\n* Enterprise\n* Državne ustanove"
+content: "\n## <a name=\"links\"></a>Veze \n* [Plan razvoja sustava Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Sistemski preduvjeti](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Business\n* Education\n* Enterprise\n* Government"

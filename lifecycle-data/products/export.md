@@ -1,27 +1,27 @@
 ---
 title: Izvoz podataka u životnom ciklusu
 description: Izvoz podataka o životnom ciklusu proizvoda
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008456"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025021"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="bca71-103">Izvoz podataka u životnom ciklusu</span><span class="sxs-lookup"><span data-stu-id="bca71-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="6ca91-103">Izvoz podataka u životnom ciklusu</span><span class="sxs-lookup"><span data-stu-id="6ca91-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="bca71-104">Ova je stranica u odjeljku razvoj.</span><span class="sxs-lookup"><span data-stu-id="bca71-104">This page is under development.</span></span>
+> <span data-ttu-id="6ca91-104">Ova je stranica u odjeljku razvoj.</span><span class="sxs-lookup"><span data-stu-id="6ca91-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="bca71-105">Izvoz svih proizvoda</span><span class="sxs-lookup"><span data-stu-id="bca71-105">Export all products</span></span>
-<span data-ttu-id="bca71-106">Izvoz podataka o životnom ciklusu za sve proizvode klikom na ispod:</span><span class="sxs-lookup"><span data-stu-id="bca71-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="6ca91-105">Izvoz svih proizvoda</span><span class="sxs-lookup"><span data-stu-id="6ca91-105">Export all products</span></span>
+<span data-ttu-id="6ca91-106">Izvoz podataka o životnom ciklusu za sve proizvode klikom na ispod:</span><span class="sxs-lookup"><span data-stu-id="6ca91-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="bca71-107">Izvoz svih proizvoda</span><span class="sxs-lookup"><span data-stu-id="bca71-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="6ca91-107">Izvoz svih proizvoda</span><span class="sxs-lookup"><span data-stu-id="6ca91-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="bca71-108">Izvoz proizvoda prema obitelji i grupi</span><span class="sxs-lookup"><span data-stu-id="bca71-108">Export products by Family and Group</span></span>
-<span data-ttu-id="bca71-109">Odaberite obitelj, a zatim grupu za izvoz.</span><span class="sxs-lookup"><span data-stu-id="bca71-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="bca71-110">Pažnja: izvoz će početi kada se odabere grupna vrijednost.</span><span class="sxs-lookup"><span data-stu-id="bca71-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="6ca91-108">Izvoz proizvoda prema obitelji i grupi</span><span class="sxs-lookup"><span data-stu-id="6ca91-108">Export products by Family and Group</span></span>
+<span data-ttu-id="6ca91-109">Odaberite obitelj, a zatim grupu za izvoz.</span><span class="sxs-lookup"><span data-stu-id="6ca91-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="6ca91-110">Pažnja: izvoz će početi kada se odabere grupna vrijednost.</span><span class="sxs-lookup"><span data-stu-id="6ca91-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Obitelj" title2="Grupi"]
 > - [(.NET | Sve](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -83,8 +83,8 @@ ms.locfileid: "1008456"
 > - [(Windows | Sigurnost](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="bca71-171">Izvoz proizvoda prema završetku datuma podrške</span><span class="sxs-lookup"><span data-stu-id="bca71-171">Export products by end of support date</span></span>
-<span data-ttu-id="bca71-172">Odaberite godinu da biste vidjeli proizvode koji dostižu kraj podrške.</span><span class="sxs-lookup"><span data-stu-id="bca71-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="bca71-173">Pažnja: izvoz će početi kada je odabrana vrijednost godina.</span><span class="sxs-lookup"><span data-stu-id="bca71-173">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="6ca91-171">Izvoz proizvoda prema završetku datuma podrške</span><span class="sxs-lookup"><span data-stu-id="6ca91-171">Export products by end of support date</span></span>
+<span data-ttu-id="6ca91-172">Odaberite godinu da biste vidjeli proizvode koji dostižu kraj podrške.</span><span class="sxs-lookup"><span data-stu-id="6ca91-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="6ca91-173">Pažnja: izvoz će početi kada je odabrana vrijednost godina.</span><span class="sxs-lookup"><span data-stu-id="6ca91-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

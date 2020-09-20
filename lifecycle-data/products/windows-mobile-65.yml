@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6,5
-  description: Windows Mobile 6,5 slijedi pravilo o nepromjenjivom životnom ciklusu.
+  title: Windows Mobile 6.5
+  description: Windows Mobile 6.5 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 33efcc83ffb0f417751ab3b65937ba480a5d0ac7
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939733"
-name: Windows Mobile 6,5
+name: Windows Mobile 6.5
 summary: >
-  Windows Mobile 6,5 slijedi pravilo o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows Mobile 6.5 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Professional, Standard

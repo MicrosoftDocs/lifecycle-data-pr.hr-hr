@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Izraz 2
-  description: Expression 2 slijedi pravilnik o nepromjenjivom životnom ciklusu.
+  title: Expression 2
+  description: Expression 2 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930816"
-name: Izraz 2
-summary: "Expression 2 slijedi pravilnik o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Blend, Design, Encoder, studio, web\n\n> [!IMPORTANT]\n> Za ovaj je proizvod završen podršku. \n"
+name: Expression 2
+summary: "Expression 2 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.\n\nTo se odnosi na sljedeća izdanja: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Izmiješati\n* Dizajn\n* Encoder\n* Studio\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Blend\n* Dizajn\n* Encoder\n* Studio\n* Web"
