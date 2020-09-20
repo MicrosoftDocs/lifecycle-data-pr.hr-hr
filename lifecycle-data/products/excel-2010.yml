@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2010
-  description: Excel 2010 slijedi pravilnik o popravnom životnom ciklusu.
+  description: Excel 2010 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
   ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931593"
 name: Excel 2010
 summary: >+
-  Excel 2010 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Excel 2010 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
-  To se odnosi na sljedeća izdanja: Home and student, Mobile, standard
+  To se odnosi na sljedeća izdanja: Home and Student, Mobile, Standard
 
 products:
 - office
