@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2016
-  description: Project Server 2016 slijedi pravilo o nepromjenjivom životnom ciklusu.
+  description: Project Server 2016 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941440"
 name: Project Server 2016
 summary: >+
-  Project Server 2016 slijedi pravilo o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.
+  Project Server 2016 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> Pročitajte dokumentaciju o [proizvodu](https://docs.microsoft.com/project/project-server-2013-and-2016) i [programiranje](https://developer.microsoft.com/project/docs) ."
+content: "\n\n> [!NOTE]\n> Pogledajte dokumentaciju o [proizvodu](https://docs.microsoft.com/project/project-server-2013-and-2016) i za [razvojne inženjere](https://developer.microsoft.com/project/docs)."
