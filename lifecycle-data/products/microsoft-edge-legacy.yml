@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ostavština u pregledniku Microsoft Edge
+  title: Microsoft Edge Legacy
   description: Microsoft Edge Legacy slijedi pravilnik o životnom ciklusu komponente.
   ms.date: 08/24/2020
   ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908659"
-name: Ostavština u pregledniku Microsoft Edge
+name: Microsoft Edge Legacy
 summary: >
-  Microsoft Edge Legacy slijedi pravilnik o životnom ciklusu [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft Edge Legacy slijedi pravilnik o životnom ciklusu [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > Napominjemo da Podrška za ovaj proizvod završava u ožujku 9, 2021. Idite [ovdje](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) da biste naučili više.
+  > Imajte na umu da podrška za ovaj proizvod završava 9. ožujka 2021. Dodatne informacije potražite [ovdje](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 products:
 - microsoft-edge
 policyType: component

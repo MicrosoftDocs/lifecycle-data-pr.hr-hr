@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft XML Core Services 4,0
-  description: Microsoft XML Core Services 4,0 slijedi pravilnik o ispravnom životnom ciklusu.
+  title: Microsoft XML Core Services 4.0
+  description: Microsoft XML Core Services 4.0 slijedi fiksna pravila životnog ciklusa.
   ms.date: 08/12/2020
   ms.openlocfilehash: 311394fe73d17ea11fe92712511a42af1f509295
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893046"
-name: Microsoft XML Core Services 4,0
+name: Microsoft XML Core Services 4.0
 summary: >+
-  Microsoft XML Core Services 4,0 slijedi pravilnik o [ispravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft XML Core Services 4.0 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Service Pack 3
   startDate: 12/28/2009
   endDate: 04/12/2014
-content: "\n\n> [!NOTE]\n> Podrška za XML Core Services 4,0 je završena. Podrška je dostupna samo za servisni paket 3."
+content: "\n\n> [!NOTE]\n> Podrška za XML Core Services 4.0 je završila. Podrška je bila dostupna samo za Servisni paket 3."

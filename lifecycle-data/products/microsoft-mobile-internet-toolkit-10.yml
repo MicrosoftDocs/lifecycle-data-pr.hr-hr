@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Mobile Internet Toolkit 1,0
-  description: Microsoft Mobile Internet Toolkit 1,0 slijedi pravilnik o popravnom životnom ciklusu.
+  title: Microsoft Mobile Internet Toolkit 1.0
+  description: Microsoft Mobile Internet Toolkit 1.0 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 08/21/2020
   ms.openlocfilehash: e9a9ce1f047d999f0d4cc8ce565d1611b2b7f748
   ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907208"
-name: Microsoft Mobile Internet Toolkit 1,0
+name: Microsoft Mobile Internet Toolkit 1.0
 summary: >+
-  Microsoft Mobile Internet Toolkit 1,0 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Mobile Internet Toolkit 1.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 products:

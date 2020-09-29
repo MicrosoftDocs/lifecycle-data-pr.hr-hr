@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rasporedom dinamike 365
-  description: Prikaz dinamike 365 slijedi suvremeni pravilnik o životnom ciklusu.
+  title: Dynamics 365 Layout
+  description: Dynamics 365 Layout slijedi pravila modernog životnog ciklusa.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891834"
-name: Rasporedom dinamike 365
+name: Dynamics 365 Layout
 summary: >+
-  Prikaz dinamike 365 slijedi [suvremeni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Dynamics 365 Layout slijedi pravila [modernog](/lifecycle/policies/modern) životnog ciklusa.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Veze \n* [Tlocrt i daljinska pomoć](/dynamics365/mixed-reality/layout/faq)\n* [Objavljivanje prijelaza sustava Dynamics 365](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Izgled i Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [Najava prijelaza sustava Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"

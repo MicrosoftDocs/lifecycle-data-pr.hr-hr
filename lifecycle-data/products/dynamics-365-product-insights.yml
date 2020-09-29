@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamika 365 proizvoda
-  description: Dinamika 365 proizvoda uvidi slijedi moderna politika životnog ciklusa.
+  title: Uvidi proizvoda sustava Dynamics 365
+  description: Uvidi proizvoda sustava Dynamics 365 slijede moderni pravilnik o životnom ciklusu.
   ms.date: 08/25/2020
   ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
   ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/26/2020
   ms.locfileid: "911338"
-name: Dinamika 365 proizvoda
+name: Uvidi proizvoda sustava Dynamics 365
 summary: >+
-  Dinamika 365 proizvoda uvidi slijedi [moderna](/lifecycle/policies/modern) politika životnog ciklusa.
+  Uvidi proizvoda sustava Dynamics 365 slijede [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
 products:
