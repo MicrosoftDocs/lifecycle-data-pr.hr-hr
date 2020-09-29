@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Daljinska pomoć u sustavu Dynamics 365
-  description: Daljinska pomoć sustava Dynamics 365 slijedi moderna pravilnik o životnom ciklusu.
+  title: Dynamics 365 Remote Assist
+  description: Dynamics 365 Remote Assist slijedi pravila modernog životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: f515184c8d286e79842892235e7e48414438d758
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868210"
-name: Daljinska pomoć u sustavu Dynamics 365
+name: Dynamics 365 Remote Assist
 summary: >+
-  Daljinska pomoć sustava Dynamics 365 slijedi [moderna](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Dynamics 365 Remote Assist slijedi pravila [modernog](/lifecycle/policies/modern) životnog ciklusa.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/30/2018
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Izgled i daljinska pomoć](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Izgled i Remote Assist](/dynamics365/mixed-reality/layout/faq)"
