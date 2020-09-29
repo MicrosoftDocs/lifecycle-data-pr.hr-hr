@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftovo internetsko sigurnosno i ubrzanje poslužitelj 2004
-  description: Microsoftovo internetsko sigurnosno i ubrzanje poslužitelj 2004 slijedi pravilnik o nepromjenjivom životnom ciklusu.
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: Microsoft Internet Security and Acceleration Server 2004 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933480"
-name: Microsoftovo internetsko sigurnosno i ubrzanje poslužitelj 2004
-summary: "Microsoftovo internetsko sigurnosno i ubrzanje poslužitelj 2004 slijedi pravilnik o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Enterprise, Standard\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "Microsoft Internet Security and Acceleration Server 2004 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.\n\nTo se odnosi na sljedeća izdanja: Enterprise, Standard\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
 products:
 - microsoft-servers
 policyType: fixed

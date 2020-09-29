@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual FoxPro 8,0 Professional Edition
-  description: Microsoft Visual FoxPro 8,0 Professional Edition slijedi pravilnik o nepromjenjivom životnom ciklusu.
+  title: Microsoft Visual FoxPro 8.0 Professional Edition
+  description: Microsoft Visual FoxPro 8.0 Professional Edition slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: Professional
   ms.openlocfilehash: f1a877392c50fc6e526869f7269b728b9dd727cd
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "929032"
-name: Microsoft Visual FoxPro 8,0 Professional Edition
+name: Microsoft Visual FoxPro 8.0 Professional Edition
 summary: >+
-  Microsoft Visual FoxPro 8,0 Professional Edition slijedi pravilnik o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Visual FoxPro 8.0 Professional Edition slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Professional
