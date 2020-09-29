@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administrator konfiguracije Microsoftova krajnjih točaka
-  description: Administrator Microsoftova programa za krajnje točke slijedi suvremeni pravilnik o životnom ciklusu.
+  title: Microsoft Endpoint Configuration Manager
+  description: Microsoft Endpoint Configuration Manager slijedi moderni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934035"
-name: Administrator konfiguracije Microsoftova krajnjih točaka
+name: Microsoft Endpoint Configuration Manager
 summary: >
-  Administrator Microsoftova programa za krajnje točke slijedi [suvremeni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Microsoft Endpoint Configuration Manager slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
 
   > [!IMPORTANT]
 
-  > Počevši od verzije 1910, upravitelj konfiguracije sada je dio programa Microsoft Endpoint Manager.
+  > Počevši od verzije 1910, Configuration Manager je sada dio Microsoft Endpoint Manager.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Detalji o verziji](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Upravitelj konfiguracije sustava System Center sada je Microsoftov Upravitelj za konfiguraciju krajnjih točaka](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Povijesne verzije](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Što je upravitelj konfiguracije](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Pojedinosti o verziji](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Upravitelj konfiguracije sistemskog centra je sada Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Povijesne verzije](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Što je Upravitelj konfiguracije](/mem/configmgr/core/understand/introduction)"

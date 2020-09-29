@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2010
-  description: Visio 2010 slijedi pravilnik o popravnom životnom ciklusu.
+  description: Visio 2010 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Premium,Professional,Standard
   ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937846"
 name: Visio 2010
 summary: >+
-  Visio 2010 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Visio 2010 slijedi [fiksna pravila](/lifecycle/policies/fixed) životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Premium, Professional, standard
+  To se odnosi na sljedeća izdanja: Premium, Professional, Standard
 
 products:
 - office

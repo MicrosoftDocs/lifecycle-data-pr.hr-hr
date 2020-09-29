@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Speech Server 2004
-  description: Microsoft Speech Server 2004 slijedi pravilnik o nepromjenjivom životnom ciklusu.
+  description: Microsoft Speech Server 2004 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937069"
 name: Microsoft Speech Server 2004
 summary: >+
-  Microsoft Speech Server 2004 slijedi pravilnik o [nepromjenjivom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Speech Server 2004 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Enterprise, Standard

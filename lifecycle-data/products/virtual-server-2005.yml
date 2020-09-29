@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualni poslužitelj 2005
-  description: Virtualni poslužitelj 2005 slijedi pravilnik o popravnom životnom ciklusu.
+  title: Virtual Server 2005
+  description: Virtual Server 2005 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937883"
-name: Virtualni poslužitelj 2005
+name: Virtual Server 2005
 summary: >+
-  Virtualni poslužitelj 2005 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Virtual Server 2005 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: Enterprise, Management Pack, standard
+  To se odnosi na sljedeća izdanja: Enterprise, Management Pack, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Paket za upravljanje\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Management Pack\n* Standard"

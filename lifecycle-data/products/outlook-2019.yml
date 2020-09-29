@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2019
-  description: Outlook 2019 slijedi pravilnik o popravnom životnom ciklusu.
+  description: Outlook 2019 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 8c38b0d1da85e6f534d902ac0349bdd657a68684
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938068"
 name: Outlook 2019
 summary: >+
-  Outlook 2019 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Outlook 2019 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Standard

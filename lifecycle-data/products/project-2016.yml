@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2016
-  description: Project 2016 slijedi pravilnik o popravnom životnom ciklusu.
+  description: Project 2016 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926524"
 name: Project 2016
 summary: >+
-  Project 2016 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Project 2016 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Professional, Standard

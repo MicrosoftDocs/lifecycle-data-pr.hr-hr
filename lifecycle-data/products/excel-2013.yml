@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2013
-  description: Excel 2013 slijedi pravilnik o popravnom životnom ciklusu.
+  description: Excel 2013 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: a61ea8a7812cf8f0588cedf137009800c888809c
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931519"
 name: Excel 2013
 summary: >+
-  Excel 2013 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Excel 2013 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Standard
