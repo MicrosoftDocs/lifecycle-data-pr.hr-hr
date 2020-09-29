@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2016 za Mac
-  description: PowerPoint 2016 za Mac slijedi pravilnik o fiksnom životnom ciklusu.
+  description: PowerPoint 2016 za Mac slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 73500fa1b2c71854c832aec2777d83cbd087d669
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850383"
 name: PowerPoint 2016 za Mac
 summary: >+
-  PowerPoint 2016 za Mac slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  PowerPoint 2016 za Mac slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: HPC Pack 2012
-  description: HPC Pack 2012 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: HPC Pack 2012 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 965bf24743a042a2aeda7973d670e4daf90327c4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850295"
 name: HPC Pack 2012
 summary: >+
-  HPC Pack 2012 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  HPC Pack 2012 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/11/2013
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pregled paketa Microsoft HPC Pack](/powershell/high-performance-computing/overview-of-microsoft-hpc-pack?view=hpc19-ps)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pregled Microsoft HPC paketa](/powershell/high-performance-computing/overview-of-microsoft-hpc-pack?view=hpc19-ps)"

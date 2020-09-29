@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftov skup alata za dijagnostiku i oporavak 8.1
-  description: Microsoft Dijagnostika i Ponovno dobivanje Alat 8.1 stid Čvrst Život ciklus Poljski.
+  title: Microsoftov Skup alata za Dijagnostiku i Oporavak 8.1
+  description: Microsoftov Skup alata za Dijagnostiku i Oporavak 8.1 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b9a4a5bc7ccc7e9849b0e5acaaf305a57485025
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850444"
-name: Microsoftov skup alata za dijagnostiku i oporavak 8.1
+name: Microsoftov Skup alata za Dijagnostiku i Oporavak 8.1
 summary: >+
-  Microsoft Dijagnostika i Ponovno dobivanje Alat 8.1 stid Čvrst Život ciklus [Poljski.](/lifecycle/policies/fixed)
+  Microsoftov Skup alata za Dijagnostiku i Oporavak 8.1 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:

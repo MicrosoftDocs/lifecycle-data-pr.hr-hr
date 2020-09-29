@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Komunikacije Foundation RIA Services
-  description: Windows Communication Foundation RIA Services slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Windows Communication Foundation RIA Services
+  description: Windows Communication Foundation RIA Services slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808036"
-name: Windows Komunikacije Foundation RIA Services
+name: Windows Communication Foundation RIA Services
 summary: >+
-  Windows Communication Foundation RIA Services slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows Communication Foundation RIA Services slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 products:

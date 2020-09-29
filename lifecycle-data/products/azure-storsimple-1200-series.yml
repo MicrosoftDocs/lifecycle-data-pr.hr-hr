@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serija Azure StorSimple 1200
-  description: Serija Azure StorSimple 1200 slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Azure StorSimple 1200 Series
+  description: Azure StorSimple 1200 Series slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850129"
-name: Serija Azure StorSimple 1200
+name: Azure StorSimple 1200 Series
 summary: >+
-  Serija Azure StorSimple 1200 slijedi pravilnik [o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Azure StorSimple 1200 Series slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/28/2016
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/azure/storage/files/storage-files-migration-storsimple-1200)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/azure/storage/files/storage-files-migration-storsimple-1200)"

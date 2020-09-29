@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions for Analytics Prognostičar 6,7
-  description: Microsoft Business Solutions for Analytics Prognostičar 6.7 slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Microsoft Business Solutions za Analytics Forecaster 6.7
+  description: Microsoft Business Solutions za Analytics Forecaster 6.7 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808727"
-name: Microsoft Business Solutions for Analytics Prognostičar 6,7
+name: Microsoft Business Solutions za Analytics Forecaster 6.7
 summary: >+
-  Microsoft Business Solutions for Analytics Prognostičar 6.7 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Business Solutions za Analytics Forecaster 6.7 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 products:

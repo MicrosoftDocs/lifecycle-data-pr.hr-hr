@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: InMage Scout u Azure oporavak web-mjesta
-  description: InMage Scout u Azure oporavak web-mjesta slijedi moderna pravilnik o životnom ciklusu.
+  title: InMage Scout in Azure Site Recovery
+  description: InMage Scout in Azure Site Recovery slijedi pravila modernog životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850285"
-name: InMage Scout u Azure oporavak web-mjesta
+name: InMage Scout in Azure Site Recovery
 summary: >+
-  InMage Scout u Azure oporavak web-mjesta slijedi [moderna](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  InMage Scout in Azure Site Recovery slijedi pravila [modernog](/lifecycle/policies/modern) životnog ciklusa.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 12/31/2020
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](https://aka.ms/asr-scout-doc)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://aka.ms/asr-scout-doc)"

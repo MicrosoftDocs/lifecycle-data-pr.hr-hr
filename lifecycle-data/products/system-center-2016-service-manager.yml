@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravitelj servisa centar sustava 2016
-  description: Upravitelj servisa Centar sustava 2016 slijedi pravilnik o fiksnom životnom ciklusu.
+  title: System Center 2016 Service Manager
+  description: System Center 2016 Service Manager slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850606"
-name: Upravitelj servisa centar sustava 2016
+name: System Center 2016 Service Manager
 summary: >+
-  Upravitelj servisa Centar sustava 2016 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  System Center 2016 Service Manager slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
