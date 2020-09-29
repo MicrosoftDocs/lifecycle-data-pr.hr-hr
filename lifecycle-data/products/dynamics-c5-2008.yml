@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamika C5 2008
-  description: Dynamics C5 2008 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Dynamics C5 2008
+  description: Dynamics C5 2008 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa21ee533af7b18e203b20be31a3cf453418a9ef
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808126"
-name: Dinamika C5 2008
+name: Dynamics C5 2008
 summary: >+
-  Dynamics C5 2008 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Dynamics C5 2008 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2007
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Pravila servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)"

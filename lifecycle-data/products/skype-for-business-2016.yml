@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servisa Skype za tvrtke 2016
-  description: Skype za poslovne 2016 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Skype za tvrtke 2016
+  description: Skype za tvrtke 2016 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: bb612be489d44c4dbac85d1fffce7797eaef57d2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850516"
-name: Servisa Skype za tvrtke 2016
+name: Skype za tvrtke 2016
 summary: >+
-  Skype za poslovne 2016 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Skype za tvrtke 2016 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:

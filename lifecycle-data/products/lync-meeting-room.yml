@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Soba za sastanke programa Lync
-  description: Soba za sastanke programa Lync slijedi pravilnik o fiksnom životnom ciklusu.
+  title: Lync Meeting Room
+  description: Lync Meeting Room slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850280"
-name: Soba za sastanke programa Lync
-summary: "Soba za sastanke programa Lync slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.\n\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migracije. \n"
+name: Lync Meeting Room
+summary: "Soba za sastanke programa Lync slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.\n\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 09/01/2013
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"

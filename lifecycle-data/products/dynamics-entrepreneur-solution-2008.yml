@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics Poduzetnik Rješenje 2008
-  description: Dynamics Entrepreneur Solution 2008 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Dynamics Entrepreneur Solution 2008
+  description: Dynamics Entrepreneur Solution 2008 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2c1a6cec1d8bc3401b1c0dc8d156c03795e68b05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808818"
-name: Dynamics Poduzetnik Rješenje 2008
+name: Dynamics Entrepreneur Solution 2008
 summary: >+
-  Dynamics Entrepreneur Solution 2008 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  Dynamics Entrepreneur Solution 2008 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:

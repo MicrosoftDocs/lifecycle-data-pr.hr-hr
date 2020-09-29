@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravitelj servisa centar sustava 2010
-  description: System Center Service Manager 2010 slijedi pravilnik fiksnog životnog ciklusa.
+  title: Upravitelj servisa sistemskog centra 2010
+  description: System Center Service Manager 2010 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 844c0319c76e81e57b895549694a67efddc1bccc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808580"
-name: Upravitelj servisa centar sustava 2010
+name: Upravitelj servisa sistemskog centra 2010
 summary: >+
-  System Center Service Manager 2010 slijedi [pravilnik fiksnog](/lifecycle/policies/fixed) životnog ciklusa.
+  System Center Service Manager 2010 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:

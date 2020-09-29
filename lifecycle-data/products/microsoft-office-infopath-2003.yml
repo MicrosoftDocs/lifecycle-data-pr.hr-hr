@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office InfoPath 2003
-  description: Microsoft Office InfoPath 2003 slijedi pravilnik o fiksnom životnom ciklusu.
+  description: Microsoft Office InfoPath 2003 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: c490e0240e02cc438b919d05116dc8595f3fedc3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808323"
 name: Microsoft Office InfoPath 2003
 summary: >+
-  Microsoft Office InfoPath 2003 slijedi [pravilnik o fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft Office InfoPath 2003 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:

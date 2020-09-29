@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servis azure spremnika
-  description: Usluga azure spremnika slijedi modernu pravilnik o životnom ciklusu.
+  title: Servis spremnika za Azure
+  description: Azure Container Service slijedi pravila modernog životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850127"
-name: Servis azure spremnika
+name: Servis spremnika za Azure
 summary: >+
-  Usluga azure spremnika slijedi [modernu](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Azure Container Service slijedi pravila [modernog](/lifecycle/policies/modern) životnog ciklusa.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/18/2016
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Linkovi \n* [Smjernice za migracije](/azure/aks/acs-aks-migration)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/azure/aks/acs-aks-migration)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Učenje Essentials v1.5 sa SCORM
-  description: Učenje Essentials v1.5 sa SCORM slijedi Component Lifecycle Policy.
+  title: Learning Essentials v1.5 sa SCORM
+  description: Learning Essentials v1.5 sa SCORM-om slijedi pravila životnog ciklusa komponenti.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "808764"
-name: Učenje Essentials v1.5 sa SCORM
+name: Learning Essentials v1.5 sa SCORM
 summary: >+
-  Učenje Essentials v1.5 sa SCORM slijedi [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Lifecycle Policy.
+  Learning Essentials v1.5 sa SCORM-om slijedi pravila životnog ciklusa [komponenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

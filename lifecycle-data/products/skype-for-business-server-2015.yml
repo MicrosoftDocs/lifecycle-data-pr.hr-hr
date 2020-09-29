@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servisa Skype za poslovne 2015 poslužitelja
-  description: Servisa Skype za Business Server 2015 slijedi pravilnik fiksni životni ciklus.
+  title: Skype for Business Server 2015
+  description: Skype za tvrtke poslužiteljska verzija 2015 slijedi fiksna pravila životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b1c68ef26edf881dfbdf73321010694f372dc10
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850514"
-name: Servisa Skype za poslovne 2015 poslužitelja
+name: Skype for Business Server 2015
 summary: >+
-  Servisa Skype za Business Server 2015 slijedi [pravilnik fiksni](/lifecycle/policies/fixed) životni ciklus.
+  Skype za tvrtke poslužiteljska verzija 2015 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
