@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense aplikacije suite 1,0
-  description: PixelSense Applications suite 1,0 slijedi pravilnik o popravnom životnom ciklusu.
+  title: PixelSense Applications Suite 1.0
+  description: PixelSense Applications Suite 1.0 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 08/12/2020
   ms.openlocfilehash: c74536304840d0d75306a3d6d2609d8a39c524dc
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891999"
-name: PixelSense aplikacije suite 1,0
+name: PixelSense Applications Suite 1.0
 summary: >+
-  PixelSense Applications suite 1,0 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  PixelSense Applications Suite 1.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 products:

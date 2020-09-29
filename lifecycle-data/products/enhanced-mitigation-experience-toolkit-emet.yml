@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Alat za poboljšanu ublažavanje zadovoljstva (IMET)
-  description: Poboljšani alat za ublažavanje zadovoljstva rada (AMET) slijedi pravilnik o ispravnom životnom ciklusu.
+  title: Enhanced Mitigation Experience Toolkit (EMET)
+  description: Enhanced Mitigation Experience Toolkit (EMET) slijedi fiksna pravila životnog ciklusa.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905281"
-name: Alat za poboljšanu ublažavanje zadovoljstva (IMET)
+name: Enhanced Mitigation Experience Toolkit (EMET)
 summary: >+
-  Poboljšani alat za ublažavanje zadovoljstva rada (AMET) slijedi pravilnik o [ispravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Enhanced Mitigation Experience Toolkit (EMET) slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
