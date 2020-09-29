@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows web Server 2008
-  description: Windows web Server 2008 slijedi pravilnik o popravnom životnom ciklusu.
+  title: Windows Web Server 2008
+  description: Windows Web Server 2008 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938882"
-name: Windows web Server 2008
+name: Windows Web Server 2008
 summary: >+
-  Windows web Server 2008 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows Web Server 2008 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Standard
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Po sustavu Windows Server 2008 Service Pack 2, ovaj je proizvod postignut na kraju podrške za Siječanj 14, 2020.\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"
+content: "\n\n> [!NOTE]\n> Što se tiče Windows Server 2008 Service Pack 2, ovaj proizvod dosegnuo je kraj podrške 14. siječnja 2020.\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Groove 3,1
-  description: Groove 3,1 slijedi pravilnik o popravnom životnom ciklusu.
+  title: Groove 3.1
+  description: Groove 3.1 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950821"
-name: Groove 3,1
+name: Groove 3.1
 summary: >+
-  Groove 3,1 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Groove 3.1 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: servis Enterprise backup, Enterprise podatkovni most, poslužitelj za Enterprise Relay, hostirane servise za upravljanje, hostirane servise, Office Project, virtualni Office sharing datoteka, virtualni Office Professional, alat za razvoj web-servisa
+  To se odnosi na sljedeća izdanja: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Servis za sigurnosno kopiranje tvrtke\n* Most Enterprise Data\n* Poslužitelj za Enterprise Relay\n* Hostirane servise za upravljanje\n* Servisi za hostiranje\n* Office Project\n* Zajedničko korištenje datoteka u virtualnom sustavu Office\n* Virtualni Office Professional\n* Alat za razvoj web-servisa"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"

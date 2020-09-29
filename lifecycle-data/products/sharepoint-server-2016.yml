@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2016
-  description: SharePoint Server 2016 slijedi pravilnik o popravnom životnom ciklusu.
+  description: SharePoint Server 2016 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941713"
 name: SharePoint Server 2016
 summary: >+
-  SharePoint Server 2016 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  SharePoint Server 2016 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Pogledajte dokumentaciju o [proizvodu](https://docs.microsoft.com/sharepoint/sharepoint-server) i [programiranje](https://developer.microsoft.com/sharepoint/docs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Pogledajte dokumentaciju o [proizvodu](https://docs.microsoft.com/sharepoint/sharepoint-server) i dokumentaciju za [razvojne inženjere](https://developer.microsoft.com/sharepoint/docs)"

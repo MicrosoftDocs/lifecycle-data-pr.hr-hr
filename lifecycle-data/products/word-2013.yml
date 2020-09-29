@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2013
-  description: Word 2013 slijedi pravilnik o popravnom životnom ciklusu.
+  description: Word 2013 slijedi fiksna pravila životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b08705b30333f7f619339b95da3aafc1d047f7de
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hr-HR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938660"
 name: Word 2013
 summary: >+
-  Word 2013 slijedi pravilnik o [popravnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Word 2013 slijedi [fiksna](/lifecycle/policies/fixed) pravila životnog ciklusa.
 
 
   To se odnosi na sljedeća izdanja: Standard
