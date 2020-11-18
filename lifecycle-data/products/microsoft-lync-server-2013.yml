@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition podržan je pomoću programa Lync Server 2010 i Lync Server 2013. Datum podrške za Lync Phone Edition produljen je 2 godine da bi se uskladio sa životnim ciklusom Lync Server 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Razvojni paket softvera za trajni razgovor\n* Telefon\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition podržan je pomoću programa Lync Server 2010 i Lync Server 2013. Datum podrške za Lync Phone Edition produljen je 2 godine da bi se uskladio sa životnim ciklusom Lync Server 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Komplet za razvoj softvera za trajni razgovor\n* Telefon\n* SDK\n* Standard"
