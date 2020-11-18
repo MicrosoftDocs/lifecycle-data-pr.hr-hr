@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization 5.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
-  To se odnosi na sljedeća izdanja: za Remote Desktop Services, za Terminal Services, za Windows Desktops
+  To se odnosi na sljedeća izdanja: za Remote Desktop Services, za Terminal Services, za radne površine sustava Windows
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* za Remote Desktop Services\n* za Terminal Services\n* za Windows Desktops"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* za Remote Desktop Services\n* za Terminal Services\n* za radne površine sustava Windows"
