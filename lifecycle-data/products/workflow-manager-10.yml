@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Upravitelj tijekovima rada 1.0
-  description: Workflow Manager 1.0 slijedi fiksni pravilnik o životnom ciklusu.
+  description: Upravitelj tijekovima rada 1.0 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/10/2020
   keywords: 
   ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1002606"
 name: Upravitelj tijekovima rada 1.0
 summary: >+
-  Workflow Manager 1.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
+  Upravitelj tijekovima rada 1.0 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
   To se odnosi na sljedeća izdanja: Client, Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju sustava SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Informacije o servisiranju sustava SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Kada je Workflow Manager komponenta sustava SharePoint Server 2016 ili SharePoint Server 2013, bit će podržan prema datumima završetka podrške odgovarajuće verzije sustava SharePoint Server.\n\n## <a name=\"editions\"></a>Izdanja \n* Klijent\n* Standard"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju sustava SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Informacije o servisiranju sustava SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Kada je Upravitelj tijekovima rada komponenta sustava SharePoint Server 2016 ili SharePoint Server 2013, bit će podržan prema datumima završetka podrške odgovarajuće verzije sustava SharePoint Server.\n\n## <a name=\"editions\"></a>Izdanja \n* Client\n* Standard"
