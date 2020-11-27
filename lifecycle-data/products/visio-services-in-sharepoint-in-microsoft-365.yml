@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio Services u sustavu SharePoint (u Microsoftu 365)
+  description: Visio Services u SharePointu (u Microsoftu 365) slijedi moderni pravilnik o životnom ciklusu.
+  ms.date: 11/02/2020
+  keywords: Vision Web Access
+  ms.openlocfilehash: 0ce0c525d8040d1a1db9a5fb7f542bde67962792
+  ms.sourcegitcommit: 4b3971ed818a75c067e0efab535b719523fa9d25
+  ms.translationtype: HT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 11/09/2020
+  ms.locfileid: "1254658"
+name: Visio Services u sustavu SharePoint (u Microsoftu 365)
+summary: >+
+  Visio Services u sustavu SharePoint (u Microsoftu 365) slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 04/16/2010
+  end: 09/30/2021
+releases:
+- version: Original Release
+  startDate: 04/16/2010
+  endDate: 09/30/2020
+content: "\n\n> [!NOTE]\n> Datum umirovljenja za Visio Services u sustavu SharePoint Online (Visio Web Access) produžen je od 30. rujna 2020. do 30. rujna 2021. Dodatne informacije potražite [ovdje](https://techcommunity.microsoft.com/t5/visio-blog/visio-web-access-aka-visio-services-updates/ba-p/109541)."
