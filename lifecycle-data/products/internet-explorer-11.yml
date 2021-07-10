@@ -2,17 +2,25 @@
 metadata:
   title: Preglednik Internet Explorer 11
   description: Internet Explorer 11 slijedi pravila životnog ciklusa komponenti.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893638"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029497"
 name: Preglednik Internet Explorer 11
 summary: >+
   Internet Explorer 11 slijedi pravila životnog ciklusa [komponenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > Napominjemo da će aplikacija radne površine Internet Explorer (IE) 11 ukinuti podršku za određene operacijske sustave od 15. lipnja 2022. godine. Kupci se potiču da se presele na Microsoft Edge s IE načinom. IE način omogućuje povratnu kompatibilnost i bit će podržan do najmanje 2029. godine. Uz to, Microsoft će poslati obavijest godinu dana prije povlačenja IE načina. [Ovdje](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) ćete pronaći popis podržanih operacijskih sustava za Internet Explorer, uključujući verzije na koje utječe ova najava.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pitanja o pravilima životnog ciklusa preglednika Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Od 12. siječnja 2016., samo najnovija dostupna verzija programa Internet Explorer za podržani operacijski sustav prima tehničku podršku i sigurnosna ažuriranja."
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://www.microsoft.com/itpro/microsoft-edge)\n* [Najčešća pitanja o životnom ciklusu preglednika Internet Explorer i Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Operacijski sustavi koje podržava Interenet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge - podržani operacijski sustavi](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Neke verzije Internet Explorera mogu biti podržane i nakon zadnjeg završnog datuma operacijskog sustava kada su dostupna proširena sigurnosna ažuriranja (ESU). Listu proizvoda koji nude ESU-e potražite [ovdje](https://docs.microsoft.com/lifecycle/faq/extended-security-updates)."
