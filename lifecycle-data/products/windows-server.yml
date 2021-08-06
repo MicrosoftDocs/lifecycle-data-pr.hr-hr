@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server
   description: Windows Server slijedi moderni pravilnik o životnom ciklusu.
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162325"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255161"
 name: Windows Server
 summary: >+
   Windows Server slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
+
   To se odnosi na sljedeća izdanja: Datacenter, Standard
+
+
 
 products:
 - windows
@@ -23,6 +26,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -44,4 +50,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Veze \n* [Kanali servisiranja sustava Windows Server: LTSC i SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows Server, verzija 1809 ponovno je objavljena 13. studenoga 2018. Datumi obustave podrške prilagođeni su u skladu s tim.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Životni ciklusi servisiranja osnove Windows kontejnera](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [Kanali servisiranja sustava Windows Server: LTSC i SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n\n> [!NOTE]\n> Domaćini objavljeni s gore navedenim verzijama sustava Windows Server slijede iste datume životnog ciklusa. Idite na stranicu za servisiranje osnovne slike na [Životni ciklusi servisiranja osnovne slike Windows kontejnera](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle) za više detalja.\n> [!NOTE]\n> Windows Server, verzija 1809 ponovno je objavljena 13. studenoga 2018. Datumi obustave podrške prilagođeni su u skladu s tim.\n\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Standard"

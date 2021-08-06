@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2019
   description: Windows Server 2019 slijedi fiksni pravilnik životnog ciklusa.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard
-  ms.openlocfilehash: 8967355f6556b020b48bca6259870c05be45f09e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: dbba3f3d791a3646dc46974ddf37f64c83207bed
+  ms.sourcegitcommit: 4e981a76c3185e8691faa3033ff05c685bba0999
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939326"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255319"
 name: Windows Server 2019
 summary: >+
   Windows Server 2019 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
+
   To se odnosi na sljedeća izdanja: Datacenter, Essentials, Standard
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/windows-server/get-started-19/whats-new-19)\n* [Dostupnost ažuriranja za Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 i Windows Server, verzija 1809 ponovno su objavljeni 13. studenog 2018. Datumi obustave podrške prilagođeni su u skladu s tim.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Essentials\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/windows-server/get-started-19/whats-new-19)\n* [Dostupnost ažuriranja za Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows)\n* [Životni ciklusi servisiranja osnovne slike Windows spremnika.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Kontejneri objavljeni uz Windows Server 2019 slijede iste datume životnog ciklusa.\n> [!NOTE]\n> Windows Server 2019 i Windows Server, verzija 1809 ponovno su objavljeni 13. studenog 2018. Datumi obustave podrške prilagođeni su u skladu s tim.\n\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Essentials\n* Standard"
