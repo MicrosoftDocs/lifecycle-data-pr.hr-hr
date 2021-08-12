@@ -4,12 +4,12 @@ metadata:
   description: Expression 2 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
-  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 46ea4c5fa473e68e88ebe30805d3ac5abfc95c5fa1b28b6c037a90dba11f24fd
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930816"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510270"
 name: Expression 2
 summary: "Expression 2 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.\n\nTo se odnosi na sljedeća izdanja: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Blend\n* Dizajn\n* Encoder\n* Studio\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Blend\n* Design\n* Encoder\n* Studio\n* Web"
