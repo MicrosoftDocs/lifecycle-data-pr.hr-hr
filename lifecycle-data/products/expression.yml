@@ -3,24 +3,34 @@ metadata:
   title: Expression
   description: Expression slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936218"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Expression slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.\n\nTo se odnosi na sljedeća izdanja: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
+summary: |
+  Expression slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
+
+  To se odnosi na sljedeća izdanja: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > Podrška za ovaj proizvod je završena. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Datum početka za Expression Blend jest 13. srpnja 2007. godine. \n\n## <a name=\"editions\"></a>Izdanja \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > Datum početka za Expression Blend jest 13. srpnja 2007. godine. 
+
+  ## <a name="editions"></a>Izdanja 
+  * Blend
+  * Design
+  * Encoder
+  * Studio

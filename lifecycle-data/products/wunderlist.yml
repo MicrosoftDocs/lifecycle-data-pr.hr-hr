@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: Wunderlist slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850201"
 name: Wunderlist
-summary: "Wunderlist slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.\n\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod temelji se na uvjetima nabave. Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. \n"
+summary: |
+  Wunderlist slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
+
+
+  > [!IMPORTANT]
+  > Podrška za ovaj proizvod temelji se na uvjetima nabave. Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>Veze 
+  * [Smjernice za migracije](https://www.wunderlist.com/blog/join-us-on-our-new-journey)
