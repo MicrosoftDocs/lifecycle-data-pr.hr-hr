@@ -3,39 +3,41 @@ metadata:
   title: Microsoft Application Virtualization 4.5
   description: Microsoft Application Virtualization 4.5 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 09/01/2020
-  keywords: for Terminal Services,for Windows Desktops
-  ms.openlocfilehash: 2d8a71caede673b568a595526f4e1c9ce41a1778
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935626"
+  keywords: 'for Terminal Services,for Windows Desktops'
 name: Microsoft Application Virtualization 4.5
-summary: >
+summary: |
   Microsoft Application Virtualization 4.5 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
-
-  To se odnosi na sljedeća izdanja: za Terminal Services, za radne površine sustava Windows
-
+  To se odnosi na sljedeća izdanja: za Terminal Services, za Windows radne površine
 
   > [!IMPORTANT]
-
   > Podrška za ovaj proizvod je završena. Pogledajte smjernice za migraciju u nastavku.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/23/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 2
-  startDate: 08/15/2010
-  endDate: 01/08/2019
-- version: Service Pack 1
-  startDate: 12/13/2009
-  endDate: 10/11/2011
-- version: Original Release
-  startDate: 11/23/2008
-  endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Budući da klijent App-V 4.6 koristi App-V 4.5 Server, App-V 4.5 Server i dalje će biti podržan prema datumima životnog ciklusa App-V 4.6 kada se koristi s podržanim app-V 4.6 klijentom.\n\n## <a name=\"editions\"></a>Izdanja \n* za Terminal Services\n* za radne površine sustava Windows"
+  - version: Service Pack 2
+    startDate: 08/15/2010
+    endDate: 01/08/2019
+  - version: Service Pack 1
+    startDate: 12/13/2009
+    endDate: 10/11/2011
+  - version: Original Release
+    startDate: 11/23/2008
+    endDate: 01/11/2011
+content: |
+
+  ## <a name="links"></a>Veze 
+  * [Smjernice za migracije](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Pravilnik servisnih paketa](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Budući da klijent App-V 4.6 koristi App-V 4.5 Server, App-V 4.5 Server i dalje će biti podržan prema datumima životnog ciklusa App-V 4.6 kada se koristi s podržanim app-V 4.6 klijentom.
+
+  ## <a name="editions"></a>Izdanja 
+  * za Terminal Services
+  * za Windows Desktops
