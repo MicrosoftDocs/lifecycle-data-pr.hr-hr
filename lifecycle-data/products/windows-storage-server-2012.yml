@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: Windows Storage Server 2012 slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002232"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   Windows Storage Server 2012 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
-
 
   To se odnosi na sljedeća izdanja: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Osnovna i proširena podrška za ovaj proizvod produžena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa.\n\n## <a name=\"editions\"></a>Izdanja \n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Veze 
+  * [Smjernice za migracije](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > Osnovna i proširena podrška za ovaj proizvod produžena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa.
+
+  ## <a name="editions"></a>Izdanja 
+  * Standard
+  * Workgroup
