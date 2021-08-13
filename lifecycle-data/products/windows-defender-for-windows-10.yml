@@ -3,26 +3,27 @@ metadata:
   title: Windows Defender za Windows 10
   description: Windows Defender za Windows 10 slijedi pravilnik životnog ciklusa komponenti.
   ms.date: 04/28/2021
-  keywords: 
-  ms.openlocfilehash: ba8be3a314dd861f34d24f346ff9ca06266dfa1f
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029016"
+  keywords: null
 name: Windows Defender za Windows 10
-summary: >+
+summary: |+
   Windows Defender za Windows 10 slijedi pravilnik životnog ciklusa [komponenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Veze \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n* [Smjernice za servisiranje](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)\n\n> [!NOTE]\n> Ovo izdanje poznato je kao komponenta koja slijedi životni ciklus svog nadređenog proizvoda, Windows 10."
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 10/14/2025
+content: |+
+
+  ## <a name="links"></a>Veze 
+  * [Windows 10](/lifecycle/products/?terms=windows%2010)
+  * [Smjernice za servisiranje](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)
+
+  > [!NOTE]
+  > Ovo izdanje poznato je kao komponenta koja slijedi životni ciklus svog nadređenog proizvoda, Windows 10.

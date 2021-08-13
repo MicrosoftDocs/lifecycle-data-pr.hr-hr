@@ -3,33 +3,32 @@ metadata:
   title: Poslužitelj za licenciranje i zaštitu softvera
   description: Poslužitelj za licenciranje i zaštitu softvera slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001048"
+  keywords: 'Enterprise,Standard'
 name: Poslužitelj za licenciranje i zaštitu softvera
-summary: >
+summary: |
   Poslužitelj za licenciranje i zaštitu softvera slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
-
 
   To se odnosi na sljedeća izdanja: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Zbog odstranjenja poslužitelja za licenciranje i zaštitu softvera (SLPS), Microsoft je podržavao SLPS do 24. rujna 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Veze \n* [Poslužitelj za licenciranje i zaštitu softvera (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Veze 
+  * [Poslužitelj za licenciranje i zaštitu softvera (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Izdanja 
+  * Enterprise
+  * Standard
