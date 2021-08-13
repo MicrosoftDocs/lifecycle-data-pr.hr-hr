@@ -3,33 +3,53 @@ metadata:
   title: Windows Server 2012
   description: Windows Server 2012 slijedi Fiksni pravilnik o životnom ciklusu.
   ms.date: 07/12/2021
-  keywords: 
-  ms.openlocfilehash: b92bdbb5164be3a4dd3e4f398fc1b9062ab98ee0
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2171921"
+  keywords: null
 name: Windows Server 2012
-summary: "Windows Server 2012 slijedi [Fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu. \n\n\nTo se odnosi na sljedeća izdanja: Datacenter, Essentials, External Connector, for Embedded Systems, Foundation, Standard\n\n\n\n"
+summary: |+
+  Windows Server 2012 slijedi [Fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu. 
+
+
+  To se odnosi na sljedeća izdanja: Datacenter, Essentials, External Connector, for Embedded Systems, Foundation, Standard
+
+
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Extended Security Update Year 3
-  startDate: 10/14/2025
-  endDate: 10/13/2026
-- version: Extended Security Update Year 2
-  startDate: 10/08/2024
-  endDate: 10/14/2025
-- version: Extended Security Update Year 1
-  startDate: 10/10/2023
-  endDate: 10/08/2024
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n\n## <a name=\"links\"></a>Veze \n* [Smjernice za migracije](/windows-server/upgrade/upgrade-overview)\n* [Informacije o proizvodu](/windows/release-information/status-windows-server-2012)\n* [Najčešća pitanja o životnom ciklusu - proširena sigurnosna ažuriranja](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Osnovna i proširena podrška za ovaj proizvod produžena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa. Windows Server Essentials objavljen 2. siječnja 2013.\n\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Essentials\n* Vanjski poveznik\n* za Embedded Systems\n* Foundation\n* Standard"
+  - version: Extended Security Update Year 3
+    startDate: 10/14/2025
+    endDate: 10/13/2026
+  - version: Extended Security Update Year 2
+    startDate: 10/08/2024
+    endDate: 10/14/2025
+  - version: Extended Security Update Year 1
+    startDate: 10/10/2023
+    endDate: 10/08/2024
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |+
+
+
+  ## <a name="links"></a>Veze 
+  * [Smjernice za migracije](/windows-server/upgrade/upgrade-overview)
+  * [Informacije o proizvodu](/windows/release-information/status-windows-server-2012)
+  * [Najčešća pitanja o životnom ciklusu - proširena sigurnosna ažuriranja](/lifecycle/faq/extended-security-updates)
+
+
+  > [!NOTE]
+  > Osnovna i proširena podrška za ovaj proizvod produžena je kako bi se korisnicima pružila standardna vremenska crta prijelaza životnog ciklusa. Windows Server Essentials objavljen 2. siječnja 2013.
+
+
+  ## <a name="editions"></a>Izdanja 
+  * Datacenter
+  * Essentials
+  * Vanjski poveznik
+  * za Embedded Systems
+  * Foundation
+  * Standard

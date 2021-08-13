@@ -3,34 +3,34 @@ metadata:
   title: Microsoft SQL Server 2012 Parallel Data Warehouse (sustav analitičke platforme)
   description: Microsoft SQL Server 2012 Parallel Data Warehouse (sustav analitičke platforme) slijedi fiksni pravilnik životnog ciklusa.
   ms.date: 07/12/2021
-  keywords: 
-  ms.openlocfilehash: b8b7ba18a9194156b247cc21091283d7b6e3af28
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172133"
+  keywords: null
 name: Microsoft SQL Server 2012 Parallel Data Warehouse (sustav analitičke platforme)
-summary: >+
+summary: |+
   Microsoft SQL Server 2012 Parallel Data Warehouse (sustav analitičke platforme) slijedi [fiksni](/lifecycle/policies/fixed) pravilnik životnog ciklusa.
 
 
 
 
-
   > [!IMPORTANT]
-
   > Kraj podrške za platformski sustav Analytics produžen je s 8. listopada 2024. na 31. ožujka 2026.
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 07/12/2013
   end: 10/08/2019
   extendedEnd: 03/31/2026
 releases:
-- version: Original Release
-  startDate: 07/12/2013
-  endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](https://www.microsoft.com/sql-server/analytics-platform-system)\n\n\n> [!NOTE]\n> SQL Server 2012 Parallel Data Warehouse (PDW) sada je APS (sustav analitičke platforme)"
+  - version: Original Release
+    startDate: 07/12/2013
+    endDate: 10/08/2024
+content: |+
+
+
+  ## <a name="links"></a>Veze 
+  * [Informacije o proizvodu](https://www.microsoft.com/sql-server/analytics-platform-system)
+
+
+  > [!NOTE]
+  > SQL Server 2012 Parallel Data Warehouse (PDW) sada je APS (sustav analitičke platforme)
