@@ -3,28 +3,30 @@ metadata:
   title: Mogućnost instalacije Windows Server 2016 Nano Server
   description: Mogućnost instalacije Windows Server 2016 Nano Server slijedi moderni pravilnik o životnom ciklusu.
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hr-HR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939400"
+  keywords: 'Datacenter,Standard'
 name: Mogućnost instalacije Windows Server 2016 Nano Server
-summary: >+
+summary: |+
   Mogućnost instalacije Windows Server 2016 Nano Server slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
-
 
   To se odnosi na sljedeća izdanja: Datacenter, Standard
 
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>Veze 
+  * [Informacije o servisiranju](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Izdanja 
+  * Datacenter
+  * Standard
