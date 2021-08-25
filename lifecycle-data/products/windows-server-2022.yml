@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2022
+  description: Na Windows Server 2022 primjenjuje se Pravilnik o fiksnom životnom ciklusu.
+  ms.date: 08/18/2021
+  keywords: 
+  ms.openlocfilehash: 32226dfdd93a7e21da11c1c6583ef0cd69687152
+  ms.sourcegitcommit: adfeeb1650d45b759b26479162bbe0ed43a82099
+  ms.translationtype: HT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "3102579"
+name: Windows Server 2022
+summary: >+
+  Na Windows Server 2022 primjenjuje se Pravilnik o [fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+
+
+
+  Navedeno se odnosi na sljedeća izdanja: Datacenter, Datacenter: Azure Edition, Standard
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu - Windows](/lifecycle/faq/windows)\n* [Informacije o proizvodu](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Datacenter: Azure Edition\n* Standard"
