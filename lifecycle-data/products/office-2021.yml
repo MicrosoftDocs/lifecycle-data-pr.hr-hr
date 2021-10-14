@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Office 2021
+  description: Office 2021 slijedi moderna pravila životnog ciklusa.
+  ms.date: 09/27/2021
+  keywords: 
+  ms.openlocfilehash: e75efd2c07eba99b0979450d0505cd7c5bddadbe
+  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.translationtype: HT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509614"
+name: Office 2021
+summary: >+
+  Office 2021 slijedi pravila [modernog](/lifecycle/policies/modern) životnog ciklusa.
+
+
+
+  To se odnosi na sljedeća izdanja: Home i Business, Home i Business za Mac, Home i Student, Home i Student za Mac, Professional
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>Izdanja \n* Home and Business\n* Home i Business za Mac\n* Home and Student\n* Home i Student za Mac\n* Professional"
