@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge slijedi moderni pravilnik o životnom ciklusu.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560049"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Microsoft Edge slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
 
 
 
 
+
   > [!IMPORTANT]
+
   > Imajte na umu da podrška za stariju verziju ovog proizvoda završava 9. ožujka 2021. Dodatne informacije potražite [ovdje](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Veze 
-  * [Microsoft Edge - podržani operacijski sustavi](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Najčešća pitanja o životnom ciklusu - Internet Explorer i Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Pravilnik o životnom ciklusu za Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Microsoft Edge - podržani operacijski sustavi](/deployedge/microsoft-edge-supported-operating-systems)\n* [Novi resursi za ubrzavanje prelaska na Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Najčešća pitanja o životnom ciklusu - Internet Explorer i Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Pravilnik o životnom ciklusu za Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
