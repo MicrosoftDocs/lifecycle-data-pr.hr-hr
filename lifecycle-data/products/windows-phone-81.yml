@@ -3,27 +3,29 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 29084ce2a70a665cf844ba45a7704878133677b2
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4117988"
 name: Windows Phone 8.1
-summary: |
+summary: >
   Windows Phone 8.1 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
+
   > [!IMPORTANT]
+
   > Podrška za ovaj proizvod je završena.
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 06/24/2014
-  end: 07/11/2017
+  start: 2014-06-24T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/24/2014
-    endDate: 07/11/2017
-content: |+
-
-  ## <a name="links"></a>Veze 
-  * [Windows Phone 8.1 - najčešća pitanja](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
-
-  > [!NOTE]
-  > Microsoft će ažuriranja učiniti dostupnima za operacijski sustav, uključujući sigurnosna ažuriranja, najmanje za 36 mjeseci nakon datuma početka životnog ciklusa. Ta će ažuriranja biti inkrementalna, sa tim što je svako ažuriranje izgrađeno na ažuriranju koje mu je prethodilo. Korisnici moraju instalirati svako objavljeno ažuriranje kako bi ostali podržani. Distribucijom tih inkrementalnih ažuriranja može upravljati mobilni operater ili proizvođač telefona od kojeg ste kupili telefon, a instalacija će zahtijevati da vaš telefon ima prethodna ažuriranja. Dostupnost ažuriranja razlikovat će se i ovisno o mogućnostima države, regije i hardvera.
+- version: Original Release
+  startDate: 2014-06-24T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Veze \n* [Windows Phone 8.1 - najčešća pitanja](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft će ažuriranja učiniti dostupnima za operacijski sustav, uključujući sigurnosna ažuriranja, najmanje za 36 mjeseci nakon datuma početka životnog ciklusa. Ta će ažuriranja biti inkrementalna, sa tim što je svako ažuriranje izgrađeno na ažuriranju koje mu je prethodilo. Korisnici moraju instalirati svako objavljeno ažuriranje kako bi ostali podržani. Distribucijom tih inkrementalnih ažuriranja može upravljati mobilni operater ili proizvođač telefona od kojeg ste kupili telefon, a instalacija će zahtijevati da vaš telefon ima prethodna ažuriranja. Dostupnost ažuriranja razlikovat će se i ovisno o mogućnostima države, regije i hardvera."

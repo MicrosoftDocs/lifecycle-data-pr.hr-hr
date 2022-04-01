@@ -1,25 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT Core services
-  description: Windows 10 IoT Core services slijede moderni pravilnik o životnom ciklusu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  title: Windows 10 IoT Core Services
+  description: Windows 10 IoT Core Services slijedi moderni pravilnik o životnom ciklusu.
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497468"
-name: Windows 10 IoT Core services
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130420"
+name: Windows 10 IoT Core Services
 summary: >+
-  Windows 10 IoT Core usluge slijede [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+  Windows 10 IoT Core Services slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+
+
+
 
 
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Veze \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services pretplata je koja nudi softversku podršku kao uslugu, uključujući kontrolu ažuriranja pomoću centra za ažuriranje uređaja i poboljšanu sigurnost s potvrdom stanja uređaja, sve dok koristite podržanu verziju sustava Windows 10 IoT Core Software."
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> Ovaj proizvod je podržan preko [Windowsa 10 IoT 2019 LTSC](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc).\n\n\n## <a name=\"links\"></a>Veze \n* [Windows 10 IoT Core Services Overview](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> Windows 10 IoT Core Services je pretplata na podršku dostupna s podržanim verzijama sustava [Windows 10 IoT Core](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core)."

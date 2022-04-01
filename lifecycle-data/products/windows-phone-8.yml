@@ -3,22 +3,24 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 slijedi fiksni pravilnik o životnom ciklusu.
   ms.date: 08/19/2020
+  ms.openlocfilehash: 5a8f766aa020ac762ccbd5c07504c2880bb5190a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118062"
 name: Windows Phone 8
-summary: |+
+summary: >+
   Windows Phone 8 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 12/14/2012
-  end: 07/08/2014
+  start: 2012-12-14T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/14/2012
-content: |+
-
-
-  > [!NOTE]
-  > Microsoft će ažuriranja učiniti dostupnima za operacijski sustav, uključujući sigurnosna ažuriranja, najmanje za 36 mjeseci nakon datuma početka životnog ciklusa. Ta će ažuriranja biti inkrementalna, sa tim što je svako ažuriranje izgrađeno na ažuriranju koje mu je prethodilo. Korisnici moraju instalirati svako objavljeno ažuriranje kako bi ostali podržani. Distribucijom tih inkrementalnih ažuriranja može upravljati mobilni operater ili proizvođač telefona od kojeg ste kupili telefon, a instalacija će zahtijevati da vaš telefon ima prethodna ažuriranja. Dostupnost ažuriranja razlikovat će se i ovisno o mogućnostima države, regije i hardvera.
+- version: Original Release
+  startDate: 2012-12-14T00:00:00.000-08:00
+content: "\n\n> [!NOTE]\n> Microsoft će ažuriranja učiniti dostupnima za operacijski sustav, uključujući sigurnosna ažuriranja, najmanje za 36 mjeseci nakon datuma početka životnog ciklusa. Ta će ažuriranja biti inkrementalna, sa tim što je svako ažuriranje izgrađeno na ažuriranju koje mu je prethodilo. Korisnici moraju instalirati svako objavljeno ažuriranje kako bi ostali podržani. Distribucijom tih inkrementalnih ažuriranja može upravljati mobilni operater ili proizvođač telefona od kojeg ste kupili telefon, a instalacija će zahtijevati da vaš telefon ima prethodna ažuriranja. Dostupnost ažuriranja razlikovat će se i ovisno o mogućnostima države, regije i hardvera."

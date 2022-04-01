@@ -1,13 +1,13 @@
 ---
 title: Proizvodi kojima podrška istječe u 2016. godini
 description: Saznajte koji će se proizvodi povući iz upotrebe, za koje će se proizvode završiti podrška ili koji će proizvodi prijeći s osnovne na proširenu podršku u 2016. godini.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4027788"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117544"
 ---
 # <a name="products-ending-support-in-2016"></a>Proizvodi kojima podrška završava u 2016. godini
 
@@ -20,13 +20,6 @@ Ako imate bilo kakvih pitanja u vezi s podrškom za proizvod, obratite se svojem
 
 
 
-## <a name="release-end-of-servicing"></a>Završetak servisiranja izdanja
-
-Podrška za sljedeća izdanja proizvoda, uređena [Modernim pravilnikom](/lifecycle/policies/modern), završit će u 2016. godini.
-
-| Proizvod | Kraj servisiranja |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, verzija 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 8. prosinca 2016. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Proizvodi za koje se bliži završetak podrške
