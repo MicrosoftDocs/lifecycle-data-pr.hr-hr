@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Uobičajeni problemi i rješenja za Project za web
+  description: Project za web slijedi moderni pravilnik o životnom ciklusu.
+  ms.date: 2022/07/15
+  keywords: 
+  ms.openlocfilehash: 76c65c5af2e2fcfbb8a6af6b74d76cbeaf0244bc
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: hr-HR
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519517"
+name: Uobičajeni problemi i rješenja za Project za web
+summary: >+
+  Project za web slijedi [moderni](/lifecycle/policies/modern) pravilnik o životnom ciklusu.
+
+
+
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 2019-10-29T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2019-10-29T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Sistemski preduvjeti](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)\n* [Informacije o servisiranju](/officeupdates/update-history-microsoft365-apps-by-date)\n* [Dokumentacija o proizvodu](/projectonline/project-online)\n* [Opis usluge Project za web](/office365/servicedescriptions/project-online-service-description/project-web-service-description)"

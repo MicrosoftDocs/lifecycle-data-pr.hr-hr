@@ -1,13 +1,13 @@
 ---
 title: Proizvodi kojima podrška istječe u 2027. godini
 description: Saznajte koji će se proizvodi povući iz upotrebe, za koje će se proizvode završiti podrška ili koji će proizvodi prijeći s osnovne na proširenu podršku u 2027. godini.
-ms.date: 03/09/2022
-ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 49ef75f723bc4d89465d14bfd395b860123516fe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117026"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517895"
 ---
 # <a name="products-ending-support-in-2027"></a>Proizvodi kojima podrška završava u 2027. godini
 
@@ -40,4 +40,5 @@ Sljedeći će proizvodi 2027. godine prijeći s osnovne na proširenu podršku. 
 
 | Proizvod | Završetak osnovne podrške |
 | --- | --- |
-| [Dynamics 365 za aplikacije Customer Engagement, verzija 9 (lokalno ažuriranje)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 12. siječnja 2027. |
+| [Dynamics 365 za aplikacije Customer Engagement, verzija 9 (lokalno ažuriranje)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 12. siječnja 2027. |
+| [System Center 2022 Data Protection Manager](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[System Center 2022 Operations Manager](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[System Center 2022 Service Manager](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[System Center 2022 Virtual Machine Manager](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | 13. travnja 2027. |

@@ -1,13 +1,13 @@
 ---
 title: Proizvodi kojima podrška istječe u 2014. godini
 description: Saznajte koji će se proizvodi povući iz upotrebe, za koje će se proizvode završiti podrška ili koji će proizvodi prijeći s osnovne na proširenu podršku u 2014. godini.
-ms.date: 08/11/2021
-ms.openlocfilehash: 6dede11fc813825dd096d7fbfa49e6c25ad15b9d
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 07/26/2022
+ms.openlocfilehash: 1a767b8ab82e08e49e07aac1d60e0b2eff42f412
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027705"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518333"
 ---
 # <a name="products-ending-support-in-2014"></a>Proizvodi kojima podrška završava u 2014. godini
 

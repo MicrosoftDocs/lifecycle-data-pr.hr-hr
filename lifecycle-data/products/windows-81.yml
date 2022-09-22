@@ -2,20 +2,27 @@
 metadata:
   title: Windows 8.1
   description: Windows 8.1 slijedi fiksni pravilnik o životnom ciklusu.
-  ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: a3447c6de9bea75452ae7ebf216b401eaab71833
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/02/2022
+  keywords: 
+  ms.openlocfilehash: 2dc2e2b41fbb73cbd8456da3fa472c2289ef5c65
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4123723"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518444"
 name: Windows 8.1
 summary: >+
   Windows 8.1 slijedi [fiksni](/lifecycle/policies/fixed) pravilnik o životnom ciklusu.
 
 
+
   To se odnosi na sljedeća izdanja: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL
+
+
+
+  > [!IMPORTANT]
+
+  > Podsjetnik da će podrška za sustav Windows 8.1 završiti 10. siječnja 2023. Nakon tog datuma, taj proizvod više neće primati sigurnosna ažuriranja, ažuriranja koja nisu sigurnosna, ispravke programskih pogrešaka, tehničku podršku ili mrežna ažuriranja tehničkog sadržaja.  Ako uređaji ne ispunjavaju tehničke preduvjete za pokretanje aktualnije verzije sustava Windows, Microsoft preporučuje zamjenu uređaja s onim koji podržava sustav Windows 11. Više informacija potražite [ovdje](https://docs.microsoft.com/lifecycle/announcements/windows-8-1-end-support-january-2023).
 
 products:
 - windows
@@ -28,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 2013-11-13T00:00:00.000-08:00
   endDate: 2023-01-10T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Enterprise N\n* N\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu - Proizvodi sustava Windows](/lifecycle/faq/windows)\n* [Najčešća tehnička pitanja o sustavu Windows 8.1](https://prod.support.services.microsoft.com/windows/windows-8-1-support-will-end-on-january-10-2023-3cfd4cde-f611-496a-8057-923fba401e93?preview=true)\n\n\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Enterprise N\n* N\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"
