@@ -2,22 +2,26 @@
 metadata:
   title: Servisna sabirnica za Windows Server
   description: Servisna sabirnica za Windows Server slijedi pravilnik o životnom ciklusu komponente.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hr-HR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147625"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518814"
 name: Servisna sabirnica za Windows Server
-summary: >
+summary: >+
   Servisna sabirnica za Windows Server slijedi pravilnik o životnom ciklusu [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Kada je servisna sabirnica 1.1 komponenta sustava SharePoint Server 2016 ili SharePoint Server 2013, ona će biti podržana prema kraju datuma podrške odgovarajuće verzije sustava SharePoint Server.
+  > Servisna sabirnica 1.1 komponenta je sustava SharePoint Server Subscription Edition, sustava SharePoint Server 2019, sustava SharePoint Server 2016 i sustava SharePoint Server 2013 te slijedi životni ciklus svog nadređenog proizvoda.
+
 products:
 - windows
 policyType: component
